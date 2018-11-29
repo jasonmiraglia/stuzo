@@ -1,6 +1,4 @@
-# stuzo
-Stuzo Test
-
+# wasserLinkEnator
 
 Application provides an API to get a random Google search result for the search term 'Scott Wasserman'.
 
