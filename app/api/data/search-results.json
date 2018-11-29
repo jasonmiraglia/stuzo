@@ -1,0 +1,3011 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - scott wasserman",
+        "totalResults": "22100",
+        "searchTerms": "scott wasserman",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "010412287580180424023:n0ygfm3q32i"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - scott wasserman",
+        "totalResults": "22100",
+        "searchTerms": "scott wasserman",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "010412287580180424023:n0ygfm3q32i"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "The Artisan Mobile mafia is getting all the jobs again - Technical.ly ...",
+      "htmlTitle": "The Artisan Mobile mafia is getting all the jobs again - Technical.ly ...",
+      "link": "https://feedproxy.google.com/~r/TechnicallyPhilly/~3/XbIIkHWTVSs/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Jan 25, 2017 ... ... an Old City office led by Artisan's founder and CTO Scott Wasserman. (The \noffice has since closed and Wasserman is now CTO at Stuzo.).",
+      "htmlSnippet": "Jan 25, 2017 \u003cb\u003e...\u003c/b\u003e ... an Old City office led by Artisan&#39;s founder and CTO \u003cb\u003eScott Wasserman\u003c/b\u003e. (The \u003cbr\u003e\noffice has since closed and Wasserman is now CTO at Stuzo.).",
+      "cacheId": "UpVmEmzWkMsJ",
+      "formattedUrl": "https://feedproxy.google.com/~r/TechnicallyPhilly/.../XbIIkHWTVSs/",
+      "htmlFormattedUrl": "https://feedproxy.google.com/~r/TechnicallyPhilly/.../XbIIkHWTVSs/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "285",
+            "height": "177",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsx7WYy8V6i12SOjvDup43bMo8TGG31kKh-kr8jKj97DHnaxkwYXlCwICR"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=0.96,width=device-width",
+            "fb:app_id": "1011285523",
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "The Artisan Mobile mafia is getting all the jobs again - Technical.ly Philly",
+            "og:description": "And here's why that's actually a great sign for Philly tech.",
+            "og:url": "https://technical.ly/philly/2017/01/25/audrey-troutt-tune-artisan-mobile/",
+            "og:site_name": "Technical.ly Philly",
+            "article:tag": "exits",
+            "article:section": "Dev",
+            "article:published_time": "2017-01-25T17:54:20+00:00",
+            "article:modified_time": "2018-02-02T15:34:06+00:00",
+            "og:updated_time": "2018-02-02T15:34:06+00:00",
+            "og:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2017/01/TUNE-IAM-Team-Photo-HiRes-12_07_16-e1484164626261.jpg",
+            "og:image:secure_url": "https://technical.ly/philly/wp-content/uploads/sites/2/2017/01/TUNE-IAM-Team-Photo-HiRes-12_07_16-e1484164626261.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "743",
+            "og:image:alt": "The TUNE team",
+            "twitter:card": "summary",
+            "twitter:site": "@technicallyPHL",
+            "twitter:domain": "Technical.ly Philly",
+            "twitter:creator": "@juliana_f_reyes",
+            "twitter:title": "The Artisan Mobile mafia is getting all the jobs again",
+            "twitter:url": "https://technical.ly/philly/2017/01/25/audrey-troutt-tune-artisan-mobile/",
+            "twitter:description": "And here's why that's actually a great sign for Philly tech.",
+            "twitter:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2017/01/TUNE-IAM-Team-Photo-HiRes-12_07_16-e1484164626261.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://technical.ly/philly/wp-content/uploads/sites/2/2017/01/TUNE-IAM-Team-Photo-HiRes-12_07_16-e1484164626261.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stan Wasserman - Google Scholar Citations",
+      "htmlTitle": "Stan \u003cb\u003eWasserman\u003c/b\u003e - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=XvWu8u8AAAAJ&hl=en",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge ... R Baillargeon, ES Spelke, S \nWasserman. Cognition 20 ... NS Contractor, S Wasserman, K Faust. Academy of\n ...",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge ... R Baillargeon, ES Spelke, S \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e. Cognition 20 ... NS Contractor, S \u003cb\u003eWasserman\u003c/b\u003e, K Faust. Academy of\u003cbr\u003e\n&nbsp;...",
+      "cacheId": "pQLKHatGdzIJ",
+      "formattedUrl": "scholar.google.com/citations?user=XvWu8u8AAAAJ&hl=en",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=XvWu8u8AAAAJ&amp;hl=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysis: Methods and applicationsS Wasserman, K FaustCambridge University Press, 1994323191994"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Stan Wasserman",
+            "title": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          }
+        ],
+        "person": [
+          {
+            "org": "indiana.edu",
+            "role": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          },
+          {
+            "name": "Stan Wasserman",
+            "jobtitle": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University",
+            "worksfor": "indiana.edu"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an ...",
+      "htmlTitle": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an ...",
+      "link": "http://feedproxy.google.com/~r/JLR_Recent/~3/YRHoTO7vhoA/1086",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Apr 21, 2016 ... ... Padmaja Chiruvolu§§,; Simon Jackson***,; Mei Di***,; Matthew Peach***,; \nRansi Somaratne§§,; Scott M. Wasserman§§,; Rob Scott§§ and ...",
+      "htmlSnippet": "Apr 21, 2016 \u003cb\u003e...\u003c/b\u003e ... Padmaja Chiruvolu§§,; Simon Jackson***,; Mei Di***,; Matthew Peach***,; \u003cbr\u003e\nRansi Somaratne§§,; \u003cb\u003eScott\u003c/b\u003e M. \u003cb\u003eWasserman\u003c/b\u003e§§,; Rob \u003cb\u003eScott\u003c/b\u003e§§ and&nbsp;...",
+      "formattedUrl": "feedproxy.google.com/~r/JLR_Recent/~3/YRHoTO7vhoA/1086",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/JLR_Recent/~3/YRHoTO7vhoA/1086",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkvdKkCoXT9nvo3itE-_TKiI5MW7qKNlZdo5L2udD6Lexz6F-RQUcdM6n"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "article",
+            "og:title": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an analysis of 10 clinical trials and the LDL receptor’s role",
+            "og:url": "/content/57/6/1086",
+            "og:site_name": "Journal of Lipid Research",
+            "og:image": "http://www.asbmb.org/uploadedImages/Social_Media/art/JLR_twittercard.png",
+            "og:description": "Frederick J. Raal, Robert P. Giugliano, Marc S. Sabatine, Michael J. Koren, Dirk Blom, Nabil G. Seidah, Narimon Honarpour, Armando Lira, Allen Xue, Padmaja Chiruvolu, Simon Jackson, Mei Di, Matthew Peach, Ransi Somaratne, Scott M. Wasserman, Rob Scott, Evan A. Stein",
+            "twitter:card": "summary_large_image",
+            "hw.ad-path": "/cgi/content/abstract/57/6/1086",
+            "hw.identifier": "/jlr/57/6/1086.atom",
+            "dc.format": "text/html",
+            "dc.language": "en",
+            "dc.title": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an analysis of 10 clinical trials and the LDL receptor’s role",
+            "dc.identifier": "10.1194/jlr.P065334",
+            "dc.date": "2016-06-01",
+            "dc.publisher": "American Society for Biochemistry and Molecular Biology",
+            "dc.contributor": "Frederick J. Raal",
+            "citation_journal_title": "Journal of Lipid Research",
+            "citation_journal_abbrev": "J. Lipid Res.",
+            "citation_issn": "0022-2275",
+            "citation_author": "Frederick J. Raal",
+            "citation_author_institution": "Carbohydrate and Lipid Metabolism Research Unit,* Faculty of Health Sciences, University of Witwatersrand, Johannesburg, South Africa"
+          }
+        ],
+        "person": [
+          {
+            "name": "Frederick J. Raal"
+          },
+          {
+            "name": "Robert P. Giugliano"
+          },
+          {
+            "name": "Marc S. Sabatine"
+          },
+          {
+            "name": "Michael J. Koren"
+          },
+          {
+            "name": "Dirk Blom"
+          },
+          {
+            "name": "Nabil G. Seidah"
+          },
+          {
+            "name": "Narimon Honarpour"
+          },
+          {
+            "name": "Armando Lira"
+          },
+          {
+            "name": "Allen Xue"
+          },
+          {
+            "name": "Padmaja Chiruvolu"
+          },
+          {
+            "name": "Simon Jackson"
+          },
+          {
+            "name": "Mei Di"
+          },
+          {
+            "name": "Matthew Peach"
+          },
+          {
+            "name": "Ransi Somaratne"
+          },
+          {
+            "name": "Scott M. Wasserman"
+          },
+          {
+            "name": "Rob Scott"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.asbmb.org/uploadedImages/Social_Media/art/JLR_twittercard.png"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "datepublished": "June 2016",
+            "articlebody": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an analysis of 10 clinical trials and the LDL receptor’s role[S] Frederick J. Raal*, Robert P. Giugliano†, Marc S. Sabatine†,...",
+            "headline": "PCSK9 inhibition-mediated reduction in Lp(a) with evolocumab: an analysis of 10 clinical trials and the LDL receptor’s role[S]",
+            "description": "Abstract Lipoprotein (a) [Lp(a)] is independently associated with CVD risk. Evolocumab, a monoclonal antibody (mAb) to proprotein convertase subtilisin/kexin type 9 (PCSK9), decreases Lp(a)...."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "John Scott - Google Scholar Citations",
+      "htmlTitle": "John \u003cb\u003eScott\u003c/b\u003e - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=381i0FIAAAAJ&hl=en",
+      "displayLink": "scholar.google.com",
+      "snippet": "John Scott. Unknown ... JI Goldstein, DE Newbury, JR Michael, NWM Ritchie, JHJ \nScott, DC Joy. Springer, 2017 ... PJ Carrington, J Scott, S Wasserman.",
+      "htmlSnippet": "John \u003cb\u003eScott\u003c/b\u003e. Unknown ... JI Goldstein, DE Newbury, JR Michael, NWM Ritchie, JHJ \u003cbr\u003e\n\u003cb\u003eScott\u003c/b\u003e, DC Joy. Springer, 2017 ... PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e.",
+      "cacheId": "SfCyPdKRznsJ",
+      "formattedUrl": "scholar.google.com/citations?user=381i0FIAAAAJ&hl=en",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=381i0FIAAAAJ&amp;hl=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysisJ ScottSage, 2017138192017"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "John Scott",
+            "title": "Unknown affiliation"
+          }
+        ],
+        "person": [
+          {
+            "org": "plymouth.ac.uk",
+            "role": "Unknown affiliation"
+          },
+          {
+            "name": "John Scott",
+            "jobtitle": "Unknown affiliation",
+            "worksfor": "plymouth.ac.uk"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Insurance Operations: Study Guide For 520 - Scott Wasserman ...",
+      "htmlTitle": "Insurance Operations: Study Guide For 520 - \u003cb\u003eScott Wasserman\u003c/b\u003e ...",
+      "link": "https://books.google.com/books/about/Insurance_Operations.html?id=4SfAngEACAAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Sep 28, 2018 ... Author, Scott Wasserman. Edition, 2. Publisher, Independent Publisher, 2018. \nISBN, 1467583928, 9781467583923. Export Citation, BiBTeX ...",
+      "htmlSnippet": "Sep 28, 2018 \u003cb\u003e...\u003c/b\u003e Author, \u003cb\u003eScott Wasserman\u003c/b\u003e. Edition, 2. Publisher, Independent Publisher, 2018. \u003cbr\u003e\nISBN, 1467583928, 9781467583923. Export Citation, BiBTeX&nbsp;...",
+      "formattedUrl": "https://books.google.com/books/about/Insurance_Operations.html?id...",
+      "htmlFormattedUrl": "https://books.google.com/books/about/Insurance_Operations.html?id...",
+      "pagemap": {
+        "book": [
+          {
+            "description": "books.google.com",
+            "url": "https://books.google.com/books/about/Insurance_Operations.html?id=4SfAngEACAAJ&utm_source=gb-gplus-share",
+            "name": "Insurance Operations",
+            "image": "https://books.google.com/books/content?id=4SfAngEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Insurance_Operations.html?id=4SfAngEACAAJ",
+            "title": "Insurance Operations",
+            "og:title": "Insurance Operations",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=4SfAngEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Insurance Operations"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=4SfAngEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "New drug achieves significant additional cholesterol-lowering in ...",
+      "htmlTitle": "New drug achieves significant additional cholesterol-lowering in ...",
+      "link": "http://feedproxy.google.com/~r/sciencedaily/~3/cB9GM3uwv8o/141002084310.htm?utm_source=feedburner&utm_medium=email",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Oct 2, 2014 ... Frederick J Raal, Narimon Honarpour, Dirk J Blom, G Kees Hovingh, Feng Xu, \nRob Scott, Scott M Wasserman, Evan A Stein, for the TESLA ...",
+      "htmlSnippet": "Oct 2, 2014 \u003cb\u003e...\u003c/b\u003e Frederick J Raal, Narimon Honarpour, Dirk J Blom, G Kees Hovingh, Feng Xu, \u003cbr\u003e\nRob \u003cb\u003eScott\u003c/b\u003e, \u003cb\u003eScott\u003c/b\u003e M \u003cb\u003eWasserman\u003c/b\u003e, Evan A Stein, for the TESLA&nbsp;...",
+      "cacheId": "H309DN9CQU8J",
+      "formattedUrl": "feedproxy.google.com/~r/sciencedaily/.../141002084310.htm?...",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/sciencedaily/.../141002084310.htm?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "last-modified": "Fri, 09 Nov 2018 14:51:03 GMT",
+            "expires": "Fri, 09 Nov 2018 15:51:03 GMT",
+            "og:title": "New drug achieves significant additional cholesterol-lowering in people with inherited high cholesterol on statins",
+            "og:type": "article",
+            "og:url": "https://www.sciencedaily.com/releases/2014/10/141002084310.htm",
+            "og:description": "Evolocumab, an injected form of a new class of drugs called PCSK9 inhibitors, is highly effective at reducing low-density lipoprotein (LDL) or “bad cholesterol” levels with few side effects in people with familial hypercholesterolaemia (FH), an inherited condition that causes extremely high cholesterol and high risk of cardiovascular disease at an early age.",
+            "og:site_name": "ScienceDaily"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Wasserman - Google+",
+      "htmlTitle": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+",
+      "link": "https://plus.google.com/+ScottWasserman",
+      "displayLink": "plus.google.com",
+      "snippet": "Scott Wasserman - Google+. ... Scott Wasserman. 355 followers -. Passionate \nabout my family, Inbound Marketing, Health, Fitness, Cycling, Paying it forward.",
+      "htmlSnippet": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+. ... \u003cb\u003eScott Wasserman\u003c/b\u003e. 355 followers -. Passionate \u003cbr\u003e\nabout my family, Inbound Marketing, Health, Fitness, Cycling, Paying it forward.",
+      "cacheId": "BP-Kll7u1tMJ",
+      "formattedUrl": "https://plus.google.com/+ScottWasserman",
+      "htmlFormattedUrl": "https://plus.google.com/+\u003cb\u003eScottWasserman\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "224",
+            "height": "225",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWiwY2I0E73vxG3P67VZqMwh_eCMrVm280AM_G29mHcuUjMMixc756KUh0"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-itunes-app": "app-id=447119634, affiliate-data=ct=SmartBanner&pt=9008",
+            "mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-capable": "yes",
+            "application-name": "Google+",
+            "apple-mobile-web-app-title": "Google+",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "og:title": "Scott Wasserman - Google+",
+            "og:type": "profile",
+            "og:url": "https://plus.google.com/+ScottWasserman",
+            "og:description": "Passionate about my family, Inbound Marketing, Health, Fitness, Cycling, Paying it forward.",
+            "twitter:card": "summary"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Scott Wasserman",
+            "url": "https://plus.google.com/+ScottWasserman",
+            "photo": "https://lh3.googleusercontent.com/-wMUmqhX1gUU/AAAAAAAAAAI/AAAAAAAAPGc/xNKtkCwwaBY/s640-il/photo.jpg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Scott Wasserman",
+            "url": "https://plus.google.com/+ScottWasserman",
+            "image": "https://lh3.googleusercontent.com/-wMUmqhX1gUU/AAAAAAAAAAI/AAAAAAAAPGc/xNKtkCwwaBY/s640-il/photo.jpg",
+            "description": "Passionate about my family, Inbound Marketing, Health, Fitness, Cycling, Paying it forward."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/-wMUmqhX1gUU/AAAAAAAAAAI/AAAAAAAAPGc/xNKtkCwwaBY/s640-il/photo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Wasserman - Google+",
+      "htmlTitle": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+",
+      "link": "https://plus.google.com/104245781424062187410",
+      "displayLink": "plus.google.com",
+      "snippet": "Scott Wasserman: These are my youtube videos check them out and more on my \nchannel Weegee719. Evan Garnett: lol the fencing fury one with the baloons ...",
+      "htmlSnippet": "\u003cb\u003eScott Wasserman\u003c/b\u003e: These are my youtube videos check them out and more on my \u003cbr\u003e\nchannel Weegee719. Evan Garnett: lol the fencing fury one with the baloons&nbsp;...",
+      "cacheId": "to8qgkmIRT0J",
+      "formattedUrl": "https://plus.google.com/104245781424062187410",
+      "htmlFormattedUrl": "https://plus.google.com/104245781424062187410",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "224",
+            "height": "225",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BxoREBbDWhXSW9lUaROYm6qXubzxPzcly7Vprq3CaTWvofd_QmhXsBk"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-itunes-app": "app-id=447119634, affiliate-data=ct=SmartBanner&pt=9008",
+            "mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-capable": "yes",
+            "application-name": "Google+",
+            "apple-mobile-web-app-title": "Google+",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "og:title": "Scott Wasserman - Google+",
+            "og:type": "profile",
+            "og:url": "https://plus.google.com/104245781424062187410",
+            "og:description": "A Google+ profile for Scott Wasserman",
+            "twitter:card": "summary"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Scott Wasserman",
+            "url": "https://plus.google.com/104245781424062187410",
+            "photo": "https://lh3.googleusercontent.com/-HacDkZFfmbc/AAAAAAAAAAI/AAAAAAAAApA/gbAKFZzM9cw/s640-il/photo.jpg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Scott Wasserman",
+            "url": "https://plus.google.com/104245781424062187410",
+            "image": "https://lh3.googleusercontent.com/-HacDkZFfmbc/AAAAAAAAAAI/AAAAAAAAApA/gbAKFZzM9cw/s640-il/photo.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/-HacDkZFfmbc/AAAAAAAAAAI/AAAAAAAAApA/gbAKFZzM9cw/s640-il/photo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US20060246283A1 - Cable insulation compositions with enhanced ...",
+      "htmlTitle": "US20060246283A1 - Cable insulation compositions with enhanced ...",
+      "link": "http://google.com/patents/US20060246283?cl=nl",
+      "displayLink": "google.com",
+      "snippet": "Other languages: English; Inventor: Geoffrey Brown: Lisa Madenjian: Scott \nWasserman; Original Assignee: Brown Geoffrey D: Madenjian Lisa S: \nWasserman ...",
+      "htmlSnippet": "Other languages: English; Inventor: Geoffrey Brown: Lisa Madenjian: \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e; Original Assignee: Brown Geoffrey D: Madenjian Lisa S: \u003cbr\u003e\nWasserman&nbsp;...",
+      "formattedUrl": "google.com/patents/US20060246283?cl=nl",
+      "htmlFormattedUrl": "google.com/patents/US20060246283?cl=nl",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Cable insulation compositions with enhanced rheology and processability",
+            "dc.date": "2004-08-11",
+            "citation_patent_application_number": "US:10/567,527",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/3a/59/b1/59dd4b06aecb26/US20060246283A1.pdf",
+            "citation_patent_publication_number": "US:20060246283:A1",
+            "dc.contributor": "Geoffrey Brown",
+            "dc.relation": "US:6472473"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Commercial Insurance - Study Guide For 557 - Scott Wasserman ...",
+      "htmlTitle": "Commercial Insurance - Study Guide For 557 - \u003cb\u003eScott Wasserman\u003c/b\u003e ...",
+      "link": "https://books.google.com/books/about/Commercial_Insurance_Study_Guide_For_557.html?id=rkyNjgEACAAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Commercial Insurance - Study Guide For 557. Front Cover. Scott Wasserman. \nIndependent Publisher, Oct 1, 2015.",
+      "htmlSnippet": "Commercial Insurance - Study Guide For 557. Front Cover. \u003cb\u003eScott Wasserman\u003c/b\u003e. \u003cbr\u003e\nIndependent Publisher, Oct 1, 2015.",
+      "formattedUrl": "https://books.google.com/.../Commercial_Insurance_Study_Guide_For_557. html?...",
+      "htmlFormattedUrl": "https://books.google.com/.../Commercial_Insurance_Study_Guide_For_557. html?...",
+      "pagemap": {
+        "book": [
+          {
+            "description": "books.google.com",
+            "url": "https://books.google.com/books/about/Commercial_Insurance_Study_Guide_For_557.html?id=rkyNjgEACAAJ&utm_source=gb-gplus-share",
+            "name": "Commercial Insurance - Study Guide For 557",
+            "image": "https://books.google.com/books/content?id=rkyNjgEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Commercial_Insurance_Study_Guide_For_557.html?id=rkyNjgEACAAJ",
+            "title": "Commercial Insurance - Study Guide For 557",
+            "og:title": "Commercial Insurance - Study Guide For 557",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=rkyNjgEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Commercial Insurance - Study Guide For 557"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=rkyNjgEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Outside the Box Origami: A New Generation of Extraordinary Folds ...",
+      "htmlTitle": "Outside the Box Origami: A New Generation of Extraordinary Folds ...",
+      "link": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=RIfQAgAAQBAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Jul 10, 2012 ... Outside the Box Origami: A New Generation of Extraordinary Folds: Includes ... \nScott Wasserman Stern No preview available - 2017 ...",
+      "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Outside the Box Origami: A New Generation of Extraordinary Folds: Includes ... \u003cbr\u003e\n\u003cb\u003eScott Wasserman\u003c/b\u003e Stern No preview available - 2017&nbsp;...",
+      "formattedUrl": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id...",
+      "htmlFormattedUrl": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "128",
+            "height": "166",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YaXrbZDzAcmWvFfCYOmCtmbWpZeZp7EBTgKKNyZZHpPeetPWDiPtFtBL"
+          }
+        ],
+        "book": [
+          {
+            "description": "books.google.com - This step-by-step origami book features models that range from simple to complex—all with a touch of creativity and whimsy. Outside the Box Origami features a mix of single-she...",
+            "url": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=RIfQAgAAQBAJ&utm_source=gb-gplus-share",
+            "name": "Outside the Box Origami",
+            "image": "https://books.google.com/books/content?id=RIfQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70V7QGOGPGO8Orbf6QBtAfl0PULAv-SXzeR_JliPUucTdg8WXZZNlRaQwz1CJhgFIfA9qXHT1-QHiTz5blf0sl3BNaYleRNC6Rn69pad3FeTopPrZ0bRWsXZQqvQRj289Oc-mc7"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=RIfQAgAAQBAJ",
+            "title": "Outside the Box Origami",
+            "og:title": "Outside the Box Origami",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=RIfQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70V7QGOGPGO8Orbf6QBtAfl0PULAv-SXzeR_JliPUucTdg8WXZZNlRaQwz1CJhgFIfA9qXHT1-QHiTz5blf0sl3BNaYleRNC6Rn69pad3FeTopPrZ0bRWsXZQqvQRj289Oc-mc7"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Outside the Box Origami"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "url": "Crafts & Hobbies",
+            "title": "Crafts & Hobbies"
+          },
+          {
+            "url": "Origami",
+            "title": "Origami"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=3INDMQAACAAJ&printsec=frontcover&img=1&zoom=5"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Wasserman - Google+",
+      "htmlTitle": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+",
+      "link": "https://plus.google.com/106360097791499101664",
+      "displayLink": "plus.google.com",
+      "snippet": "Scott Wasserman - Google+. ... Sign in. Profile cover photo. Profile photo. Scott \nWasserman. 18 followers. 18 followers. About. Posts. Looks like you've reached ...",
+      "htmlSnippet": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+. ... Sign in. Profile cover photo. Profile photo. \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e. 18 followers. 18 followers. About. Posts. Looks like you&#39;ve reached&nbsp;...",
+      "cacheId": "u0rBqguPM-IJ",
+      "formattedUrl": "https://plus.google.com/106360097791499101664",
+      "htmlFormattedUrl": "https://plus.google.com/106360097791499101664",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxDI3V4Nh0sSyQxSqTYdxyLkc1uCTIrSXrtMmrmrrxkfZ2CaNRPvMnlUk"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-itunes-app": "app-id=447119634, affiliate-data=ct=SmartBanner&pt=9008",
+            "mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-capable": "yes",
+            "application-name": "Google+",
+            "apple-mobile-web-app-title": "Google+",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "og:title": "Scott Wasserman - Google+",
+            "og:type": "profile",
+            "og:url": "https://plus.google.com/106360097791499101664",
+            "og:description": "A Google+ profile for Scott Wasserman",
+            "twitter:card": "summary"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Scott Wasserman",
+            "url": "https://plus.google.com/106360097791499101664",
+            "photo": "https://lh3.googleusercontent.com/-cNuRa5h25sQ/AAAAAAAAAAI/AAAAAAAAAAw/GtlIDfZs9Ms/s640-il/photo.jpg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Scott Wasserman",
+            "url": "https://plus.google.com/106360097791499101664",
+            "image": "https://lh3.googleusercontent.com/-cNuRa5h25sQ/AAAAAAAAAAI/AAAAAAAAAAw/GtlIDfZs9Ms/s640-il/photo.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_=w692-h389-n-no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Wasserman - Google+",
+      "htmlTitle": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+",
+      "link": "https://plus.google.com/115318606302831580593",
+      "displayLink": "plus.google.com",
+      "snippet": "Scott Wasserman - Google+. ... Sign in. Profile cover photo. Profile photo. Scott \nWasserman. 95 followers. 95 followers. About. Posts. Looks like you've reached ...",
+      "htmlSnippet": "\u003cb\u003eScott Wasserman\u003c/b\u003e - Google+. ... Sign in. Profile cover photo. Profile photo. \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e. 95 followers. 95 followers. About. Posts. Looks like you&#39;ve reached&nbsp;...",
+      "cacheId": "rU7vNFpozWAJ",
+      "formattedUrl": "https://plus.google.com/115318606302831580593",
+      "htmlFormattedUrl": "https://plus.google.com/115318606302831580593",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8X27FAnT_yQ9DPKnqIpyr5w_EKOhho4_3RXy6hm_tWXFt8xlcm7FVv6zN"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "apple-itunes-app": "app-id=447119634, affiliate-data=ct=SmartBanner&pt=9008",
+            "mobile-web-app-capable": "yes",
+            "apple-mobile-web-app-capable": "yes",
+            "application-name": "Google+",
+            "apple-mobile-web-app-title": "Google+",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "og:title": "Scott Wasserman - Google+",
+            "og:type": "profile",
+            "og:url": "https://plus.google.com/115318606302831580593",
+            "og:description": "A Google+ profile for Scott Wasserman",
+            "twitter:card": "summary"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Scott Wasserman",
+            "url": "https://plus.google.com/115318606302831580593",
+            "photo": "https://lh3.googleusercontent.com/-yKQYOnKwW6s/AAAAAAAAAAI/AAAAAAAAACA/fASmei2i_Us/s640-il/photo.jpg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Scott Wasserman",
+            "url": "https://plus.google.com/115318606302831580593",
+            "image": "https://lh3.googleusercontent.com/-yKQYOnKwW6s/AAAAAAAAAAI/AAAAAAAAACA/fASmei2i_Us/s640-il/photo.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/-yKQYOnKwW6s/AAAAAAAAAAI/AAAAAAAAACA/fASmei2i_Us/s640-il/photo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Outside the Box Origami: A New Generation of Extraordinary Folds ...",
+      "htmlTitle": "Outside the Box Origami: A New Generation of Extraordinary Folds ...",
+      "link": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=3INDMQAACAAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Oct 17, 2017 ... About the author (2017). Scott Wasserman Stern has been folding origami since \nhe was three years old. He has been an active member of the ...",
+      "htmlSnippet": "Oct 17, 2017 \u003cb\u003e...\u003c/b\u003e About the author (2017). \u003cb\u003eScott Wasserman\u003c/b\u003e Stern has been folding origami since \u003cbr\u003e\nhe was three years old. He has been an active member of the&nbsp;...",
+      "formattedUrl": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id...",
+      "htmlFormattedUrl": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id...",
+      "pagemap": {
+        "book": [
+          {
+            "description": "books.google.com - This step-by-step origami book features models that range from simple to complex—all with a touch of creativity and whimsy.Outside the Box Origami features a mix of single-shee...",
+            "url": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=3INDMQAACAAJ&utm_source=gb-gplus-share",
+            "name": "Outside the Box Origami",
+            "image": "https://books.google.com/books/content?id=3INDMQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7308JGGuGHyT_daFPmTsV__vlVEP9FlIV036XwUzo6tzrniIHQtuBIWYuyDvcoBDPhsroWjyMio5saTwyKy5Yu4ODV4BbGR9hyOJGVlQbpCj9lMtzI9Od8MJuKcxqP-t-OzMVzg"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Outside_the_Box_Origami.html?id=3INDMQAACAAJ",
+            "title": "Outside the Box Origami",
+            "og:title": "Outside the Box Origami",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=3INDMQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7308JGGuGHyT_daFPmTsV__vlVEP9FlIV036XwUzo6tzrniIHQtuBIWYuyDvcoBDPhsroWjyMio5saTwyKy5Yu4ODV4BbGR9hyOJGVlQbpCj9lMtzI9Od8MJuKcxqP-t-OzMVzg"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Outside the Box Origami"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "url": "Art",
+            "title": "Art"
+          },
+          {
+            "url": "Asian",
+            "title": "Asian"
+          },
+          {
+            "url": "General",
+            "title": "General"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=3INDMQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7308JGGuGHyT_daFPmTsV__vlVEP9FlIV036XwUzo6tzrniIHQtuBIWYuyDvcoBDPhsroWjyMio5saTwyKy5Yu4ODV4BbGR9hyOJGVlQbpCj9lMtzI9Od8MJuKcxqP-t-OzMVzg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lori N Scott - Google Scholar Citations",
+      "htmlTitle": "Lori N \u003cb\u003eScott\u003c/b\u003e - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=2A_iSfQAAAAJ&hl=en",
+      "displayLink": "scholar.google.com",
+      "snippet": "KN Levy, JF Clarkin, FE Yeomans, LN Scott, RH Wasserman, ... Journal of ... AGC \nWright, MN Hallquist, JQ Morse, LN Scott, SD Stepp, KA Nolf, ... Journal of ...",
+      "htmlSnippet": "KN Levy, JF Clarkin, FE Yeomans, LN \u003cb\u003eScott\u003c/b\u003e, RH \u003cb\u003eWasserman\u003c/b\u003e, ... Journal of ... AGC \u003cbr\u003e\nWright, MN Hallquist, JQ Morse, LN \u003cb\u003eScott\u003c/b\u003e, SD Stepp, KA Nolf, ... Journal of&nbsp;...",
+      "cacheId": "FCfjRkVuqccJ",
+      "formattedUrl": "scholar.google.com/citations?user=2A_iSfQAAAAJ&hl=en",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=2A_iSfQAAAAJ&amp;hl=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "The mechanisms of change in the treatment of borderline personality disorder with transference focused psychotherapyKN Levy, JF Clarkin, FE Yeomans, LN Scott, RH Wasserman, ...Journal of clinical..."
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Lori N Scott",
+            "title": "University of Pittsburgh School of Medicine, Department of Psychiatry"
+          }
+        ],
+        "person": [
+          {
+            "org": "upmc.edu",
+            "role": "University of Pittsburgh School of Medicine, Department of Psychiatry"
+          },
+          {
+            "name": "Lori N Scott",
+            "jobtitle": "University of Pittsburgh School of Medicine, Department of Psychiatry",
+            "worksfor": "upmc.edu"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "A New Generation of Extaordinary Folds By Scott Wasserman Stern",
+      "htmlTitle": "A New Generation of Extaordinary Folds By \u003cb\u003eScott Wasserman\u003c/b\u003e Stern",
+      "link": "https://docs.google.com/document/d/1WhPlt2_D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/",
+      "displayLink": "docs.google.com",
+      "snippet": "Outside the Box Origami: A New Generation of Extaordinary Folds By Scott \nWasserman Stern. It is the time to boost and also freshen your ability, knowledge \nas ...",
+      "htmlSnippet": "Outside the Box Origami: A New Generation of Extaordinary Folds By \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e Stern. It is the time to boost and also freshen your ability, knowledge \u003cbr\u003e\nas&nbsp;...",
+      "formattedUrl": "https://docs.google.com/.../1WhPlt2_ D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/",
+      "htmlFormattedUrl": "https://docs.google.com/.../1WhPlt2_ D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:title": "[T176.Book] Download Ebook Outside the Box Origami: A New Generation of Extaordinary Folds By Scott Wasserman Stern",
+            "og:type": "article",
+            "og:site_name": "Google Docs",
+            "og:url": "https://docs.google.com/document/d/1WhPlt2_D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/edit?_escaped_fragment_&usp=embed_facebook",
+            "og:image": "https://lh6.googleusercontent.com/ViaSo6B_B_FtQYlIRMGiDmkhWcMxcv44CBit8uYpVtHBXAzDKAuJGMHzPDjErU1DFP3rrQ=w1200-h630-p",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:description": "Outside the Box Origami: A New Generation of Extaordinary Folds By Scott Wasserman Stern         Click link below to download ebook : http://bookprem.com/gd-ebooks/B008G05EOI    Outside the Box Origami: A New Generation of Extaordinary Folds By Scott Wasserman Stern     Outside the Box Origa...",
+            "google": "notranslate",
+            "fragment": "!",
+            "referrer": "default"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh6.googleusercontent.com/ViaSo6B_B_FtQYlIRMGiDmkhWcMxcv44CBit8uYpVtHBXAzDKAuJGMHzPDjErU1DFP3rrQ=w1200-h630-p"
+          }
+        ],
+        "documentobject": [
+          {
+            "name": "[T176.Book] Download Ebook Outside the Box Origami: A New Generation of Extaordinary Folds By Scott Wasserman Stern",
+            "faviconurl": "https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico",
+            "url": "https://docs.google.com/document/d/1WhPlt2_D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/edit?_escaped_fragment_&usp=embed_googleplus",
+            "embedurl": "https://docs.google.com/document/d/1WhPlt2_D97GQP8AVpA10DU6ZhnDdfV0PL0fh3rO3Xys/preview?usp=embed_googleplus"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Unbound Empowers Families Living in Kansas City's Urban Core",
+      "htmlTitle": "Unbound Empowers Families Living in Kansas City&#39;s Urban Core",
+      "link": "http://feedproxy.google.com/~r/Marketwired-LifestyleAndLeisure/~3/PS3ag2D1Ffk/release.do",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Mar 5, 2016 ... KANSAS CITY, KS--(Marketwired - March 05, 2016) - Unbound President and \nCEO Scott Wasserman presented a check for $15000 to ...",
+      "htmlSnippet": "Mar 5, 2016 \u003cb\u003e...\u003c/b\u003e KANSAS CITY, KS--(Marketwired - March 05, 2016) - Unbound President and \u003cbr\u003e\nCEO \u003cb\u003eScott Wasserman\u003c/b\u003e presented a check for $15000 to&nbsp;...",
+      "cacheId": "2oiBRPUva20J",
+      "formattedUrl": "feedproxy.google.com/~r/Marketwired.../~3/.../release.do",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/Marketwired.../~3/.../release.do",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "224",
+            "height": "76",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQB-OMBu-pkcCIkpJXvlEVlYiJzhb86wtre7_1EGmUh1ER5k7IowtLQ"
+          }
+        ],
+        "metatags": [
+          {
+            "og:site_name": "Marketwire",
+            "og:type": "article",
+            "og:title": "Unbound Empowers Families Living in Kansas City's Urban Core",
+            "og:image": "http://www.marketwire.com/library/MwGo/2016/3/4/11G086249/UnboundLogo-82d0fa1cfc2e92d88760665df5490e8f.jpg",
+            "og:description": "KANSAS CITY, KS--(Marketwired - March 05, 2016) - Unbound President and CEO Scott Wasserman presented a check for $15,000 to Operation Breakthrough to support children living in the urban core of Kansas City.\"We are proud to support families in Kansas City who work hard to lift themselves out of poverty,\"...",
+            "og:url": "http://www.marketwired.com/press-release/unbound-empowers-families-living-in-kansas-citys-urban-core-2103170.htm"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.marketwire.com/library/MwGo/2016/3/4/11G086249/UnboundLogo-82d0fa1cfc2e92d88760665df5490e8f.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Google Scholar Citations",
+      "htmlTitle": "Peter J. Carrington - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=en",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1907, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1907, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "RIy9sIwOmj4J",
+      "formattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=en",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200519072005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Grossinger to AutoCanada in Record Cross-Border Sale - F&I - F&I ...",
+      "htmlTitle": "Grossinger to AutoCanada in Record Cross-Border Sale - F&amp;I - F&amp;I ...",
+      "link": "http://feedproxy.google.com/~r/FIMagazine/~3/LlMH_sYL2_g/grossinger-to-autocanada-in-largest-ever-cross-border-sale.aspx",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Apr 11, 2018 ... ... partner David Blum, Automotive Retail Practice Chair Scott Wasserman and \nMiami partner Brenda Goerks in the Real Estate Practice Group.",
+      "htmlSnippet": "Apr 11, 2018 \u003cb\u003e...\u003c/b\u003e ... partner David Blum, Automotive Retail Practice Chair \u003cb\u003eScott Wasserman\u003c/b\u003e and \u003cbr\u003e\nMiami partner Brenda Goerks in the Real Estate Practice Group.",
+      "cacheId": "TSDkSJq9njcJ",
+      "formattedUrl": "feedproxy.google.com/.../grossinger-to-autocanada-in-largest-ever-cross- border-sale.aspx",
+      "htmlFormattedUrl": "feedproxy.google.com/.../grossinger-to-autocanada-in-largest-ever-cross- border-sale.aspx",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4YXDRxWDcNz_KaHuh_08ihrSXJd4o4OSYXR1fLxdnqgA1lvC64zu4wjs"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "copyright": "© 2018 F&I and Showroom. All Rights Reserved.",
+            "bbm:itemcanonicalurl": "https://www.fi-magazine.com/323855/grossinger-to-autocanada-in-record-cross-border-sale",
+            "bbm:useripaddress": "66.249.66.52",
+            "bbm:uservisitdatetime": "20181125234835",
+            "bbm:uservisitdate": "20181125",
+            "bbm:websitename": "F&I and Showroom",
+            "bbm:websitedomain": "fi-magazine.com",
+            "og:title": "Grossinger to AutoCanada in Record Cross-Border Sale",
+            "og:description": "Chicago’s Grossinger Auto Group has sold 15 stores to AutoCanada in an acquisition billed as the largest ever to cross international lines.",
+            "og:type": "article",
+            "og:url": "http://www.fi-magazine.com/323855/grossinger-to-autocanada-in-record-cross-border-sale",
+            "og:image": "https://dealerimages.bobitstudios.com/upload/fi-magazine/content/news/_migrated/FI0418-news-Grossinger-Chicago-thumb.jpg",
+            "bbm:itemuniqueid": "N_160518",
+            "bbm:itemtitle": "Grossinger to AutoCanada in Record Cross-Border Sale",
+            "bbm:itemdescription": "Chicago’s Grossinger Auto Group has sold 15 stores to AutoCanada in an acquisition billed as the largest ever to cross international lines.",
+            "bbm:itempostdatetime": "20180411113900",
+            "bbm:itempostdate": "20180411",
+            "bbm:itemcontenttype": "news",
+            "bbm:itemtopicsection": "f&i"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dealerimages.bobitstudios.com/upload/fi-magazine/content/news/_migrated/FI0418-news-Grossinger-Chicago-thumb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Wasserman Stern - Vitabu kwenye Google Play",
+      "htmlTitle": "\u003cb\u003eScott Wasserman\u003c/b\u003e Stern - Vitabu kwenye Google Play",
+      "link": "https://play.google.com/store/books/author?id=Scott+Wasserman+Stern&hl=sw",
+      "displayLink": "play.google.com",
+      "snippet": "Pata mamilioni ya vitabu kwenye programu ya Vitabu vya Google Play. Soma \nmatoleo ya hivi karibuni ya riwaya, tamthilia, vitabu vya katuni na aina nyingine ...",
+      "htmlSnippet": "Pata mamilioni ya vitabu kwenye programu ya Vitabu vya Google Play. Soma \u003cbr\u003e\nmatoleo ya hivi karibuni ya riwaya, tamthilia, vitabu vya katuni na aina nyingine&nbsp;...",
+      "cacheId": "jYXEP3thWDsJ",
+      "formattedUrl": "https://play.google.com/store/books/author?...Scott+Wasserman...",
+      "htmlFormattedUrl": "https://play.google.com/store/books/author?...\u003cb\u003eScott\u003c/b\u003e+\u003cb\u003eWasserman\u003c/b\u003e...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "og:title": "Scott Wasserman Stern - Vitabu kwenye Google Play",
+            "og:url": "https://play.google.com/store/books/author?id=Scott+Wasserman+Stern&hl=sw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative ...",
+      "htmlTitle": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative ...",
+      "link": "https://play.google.com/store/books/details/Fabrigami_The_Origami_Art_of_Folding_Cloth_to_Crea?id=FhUdBAAAQBAJ&hl=en_US",
+      "displayLink": "play.google.com",
+      "snippet": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful \nObjects - Ebook written by Jill Stovall, Scott Wasserman Stern, Florence Temko.",
+      "htmlSnippet": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful \u003cbr\u003e\nObjects - Ebook written by Jill Stovall, \u003cb\u003eScott Wasserman\u003c/b\u003e Stern, Florence Temko.",
+      "cacheId": "W-suBMWpK1IJ",
+      "formattedUrl": "https://play.google.com/.../Fabrigami_The_Origami_Art_of_Folding_Cloth_ to_Crea?...",
+      "htmlFormattedUrl": "https://play.google.com/.../Fabrigami_The_Origami_Art_of_Folding_Cloth_ to_Crea?...",
+      "pagemap": {
+        "book": [
+          {
+            "name": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects",
+            "url": "https://play.google.com/store/books/details/Fabrigami_The_Origami_Art_of_Folding_Cloth_to_Crea?id=FhUdBAAAQBAJ&hl=en_US"
+          },
+          {
+            "bookformat": "https://schema.org/EBook",
+            "isbn": "9780804847513",
+            "datepublished": "2013-12-24",
+            "abridged": "https://schema.org/False"
+          }
+        ],
+        "aggregaterating": [
+          {
+            "ratingvalue": "1",
+            "reviewcount": "1"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:type": "website",
+            "og:url": "https://play.google.com/store/books/details/Fabrigami_The_Origami_Art_of_Folding_Cloth_to_Crea?id=FhUdBAAAQBAJ&hl=en_US",
+            "og:title": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects by Jill Stovall, Scott Wasserman Stern, Florence Temko - Books on Google Play",
+            "og:image": "https://books.google.com/books/content/images/frontcover/FhUdBAAAQBAJ?fife"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Jill Stovall",
+            "url": "https://play.google.com/store/books/author?id=Jill+Stovall"
+          },
+          {
+            "fn": "Scott Wasserman Stern",
+            "url": "https://play.google.com/store/books/author?id=Scott+Wasserman+Stern"
+          },
+          {
+            "fn": "Florence Temko",
+            "url": "https://play.google.com/store/books/author?id=Florence+Temko"
+          }
+        ],
+        "offer": [
+          {
+            "url": "https://play.google.com/store/books/details?id=FhUdBAAAQBAJ&rdid=book-FhUdBAAAQBAJ&feature=md&offerId",
+            "price": "0"
+          },
+          {
+            "url": "https://play.google.com/store/books/details?id=FhUdBAAAQBAJ&rdid=book-FhUdBAAAQBAJ&feature=md&offerId",
+            "price": "$7.96",
+            "description": "You will be able to read this book on the web as well as supported mobile devices."
+          },
+          {
+            "price": "7.96",
+            "pricecurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        ],
+        "review": [
+          {
+            "ratingstars": "1.0",
+            "ratingcount": "1"
+          }
+        ],
+        "person": [
+          {
+            "name": "Jill Stovall",
+            "url": "https://play.google.com/store/books/author?id=Jill+Stovall"
+          },
+          {
+            "name": "Scott Wasserman Stern",
+            "url": "https://play.google.com/store/books/author?id=Scott+Wasserman+Stern"
+          },
+          {
+            "name": "Florence Temko",
+            "url": "https://play.google.com/store/books/author?id=Florence+Temko"
+          },
+          {
+            "name": "Jill Stovall",
+            "url": "https://play.google.com/store/books/author?id=Jill+Stovall"
+          },
+          {
+            "name": "Scott Wasserman Stern",
+            "url": "https://play.google.com/store/books/author?id=Scott+Wasserman+Stern"
+          },
+          {
+            "name": "Florence Temko",
+            "url": "https://play.google.com/store/books/author?id=Florence+Temko"
+          }
+        ],
+        "entrypoint": [
+          {
+            "urltemplate": "https://play.google.com/store/books/details/Fabrigami_The_Origami_Art_of_Folding_Cloth_to_Crea?id=FhUdBAAAQBAJ&hl=en_US",
+            "actionplatform": "http://schema.org/DesktopWebPlatform"
+          }
+        ],
+        "hreviewaggregate": [
+          {
+            "count": "1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content/images/frontcover/FhUdBAAAQBAJ?fife"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DNC Chairwoman and Congresswoman Debbie Wasserman ...",
+      "htmlTitle": "DNC Chairwoman and Congresswoman Debbie \u003cb\u003eWasserman\u003c/b\u003e ...",
+      "link": "https://feedproxy.google.com/~r/DrudgeReportFeed/~3/nVbwpSJskQo/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Sep 25, 2014 ... \"Scott Walker has given women the back of his hand. I know that is stark. I know \nthat is direct. But that is reality,\" Wasserman Schultz said during ...",
+      "htmlSnippet": "Sep 25, 2014 \u003cb\u003e...\u003c/b\u003e &quot;\u003cb\u003eScott\u003c/b\u003e Walker has given women the back of his hand. I know that is stark. I know \u003cbr\u003e\nthat is direct. But that is reality,&quot; \u003cb\u003eWasserman\u003c/b\u003e Schultz said during&nbsp;...",
+      "cacheId": "Y9JIyIwKvH4J",
+      "formattedUrl": "https://feedproxy.google.com/~r/DrudgeReportFeed/.../nVbwpSJskQo/",
+      "htmlFormattedUrl": "https://feedproxy.google.com/~r/DrudgeReportFeed/.../nVbwpSJskQo/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "310",
+            "height": "163",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4knKOgMFsh64D091fz6tPqdzW04-_9v3I5MpXMKV5YS2gZ8AB13mDxIQ"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "fb:pages": "282024895179874",
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "DNC Chairwoman and Congresswoman Debbie Wasserman Schultz says Rick Scott gave Florida \"the back of his hand.\"",
+            "og:url": "https://freebeacon.com/politics/wasserman-schultz-repeats-republican-insults/",
+            "og:site_name": "Washington Free Beacon",
+            "article:publisher": "https://www.facebook.com/FreeBeacon/",
+            "article:tag": "Debbie Wasserman Schultz",
+            "article:section": "Politics",
+            "article:published_time": "2014-09-25T16:48:48-04:00",
+            "article:modified_time": "2014-09-26T10:05:48-04:00",
+            "og:updated_time": "2014-09-26T10:05:48-04:00",
+            "fb:app_id": "169639790097533",
+            "og:image": "https://freebeacon.com/wp-content/uploads/2017/08/open-graph-fallback.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "DNC Chairwoman and Congresswoman Debbie Wasserman Schultz says Rick Scott gave Florida \"the back of his hand.\"",
+            "twitter:site": "@FreeBeacon",
+            "twitter:image": "https://freebeacon.com/wp-content/uploads/2017/08/open-graph-fallback.jpg",
+            "twitter:creator": "@FreeBeacon",
+            "ia:markup_url": "https://freebeacon.com/politics/wasserman-schultz-repeats-republican-insults/?ia_markup=1",
+            "apple-itunes-app": "app-id=1047859882"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://freebeacon.com/wp-content/uploads/2017/08/open-graph-fallback.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Google Scholar Citations",
+      "htmlTitle": "Peter J. Carrington - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=sv",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1908, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1908, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "Qjo6000IYUAJ",
+      "formattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=sv",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl=sv",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200519082005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Google 학술검색 서지정보",
+      "htmlTitle": "Peter J. Carrington - Google 학술검색 서지정보",
+      "link": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=ko",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1889, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1889, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "ac2JprVbabAJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200518892005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Personal Financial Planning Theory and Practice Instructor Manual ...",
+      "htmlTitle": "Personal Financial Planning Theory and Practice Instructor Manual ...",
+      "link": "https://books.google.com/books/about/Personal_Financial_Planning_Theory_and_P.html?id=PaI8AAAACAAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Personal Financial Planning Theory and Practice Instructor Manual. Front Cover. \nMichael Dalton, James Dalton, Randal Cangelosi, Scott Wasserman, Randall ...",
+      "htmlSnippet": "Personal Financial Planning Theory and Practice Instructor Manual. Front Cover. \u003cbr\u003e\nMichael Dalton, James Dalton, Randal Cangelosi, \u003cb\u003eScott Wasserman\u003c/b\u003e, Randall&nbsp;...",
+      "formattedUrl": "https://books.google.com/.../Personal_Financial_Planning_Theory_and_P. html?...",
+      "htmlFormattedUrl": "https://books.google.com/.../Personal_Financial_Planning_Theory_and_P. html?...",
+      "pagemap": {
+        "book": [
+          {
+            "description": "books.google.com",
+            "url": "https://books.google.com/books/about/Personal_Financial_Planning_Theory_and_P.html?id=PaI8AAAACAAJ&utm_source=gb-gplus-share",
+            "name": "Personal Financial Planning Theory and Practice Instructor Manual",
+            "image": "https://books.google.com/books/content?id=PaI8AAAACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Personal_Financial_Planning_Theory_and_P.html?id=PaI8AAAACAAJ",
+            "title": "Personal Financial Planning Theory and Practice Instructor Manual",
+            "og:title": "Personal Financial Planning Theory and Practice Instructor Manual",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=PaI8AAAACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Personal Financial Planning Theory and Practice Instructor Manual"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=PaI8AAAACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nelson, Demings lead job of reviving state Democrats - Orlando ...",
+      "htmlTitle": "Nelson, Demings lead job of reviving state Democrats - Orlando ...",
+      "link": "http://feedproxy.google.com/~r/orlandosentinel/news/local/state/~3/Gt3p1PrmOzI/os-democrats-what-went-wrong-20141127-story.html",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Nov 27, 2014 ... Debbie Wasserman Schultz of Weston to go door to door. ... of experienced \npoliticians and new candidates, including Scott Plakon, Bob Cortes, ...",
+      "htmlSnippet": "Nov 27, 2014 \u003cb\u003e...\u003c/b\u003e Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz of Weston to go door to door. ... of experienced \u003cbr\u003e\npoliticians and new candidates, including \u003cb\u003eScott\u003c/b\u003e Plakon, Bob Cortes,&nbsp;...",
+      "cacheId": "5QzPX9rncecJ",
+      "formattedUrl": "feedproxy.google.com/.../os-democrats-what-went-wrong-20141127-story. html",
+      "htmlFormattedUrl": "feedproxy.google.com/.../os-democrats-what-went-wrong-20141127-story. html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "266",
+            "height": "189",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7eZdQZVcvworRtWC6e3E5GtbQ753aUXCvzbYVICqDa64_8XUvERpE6OI"
+          }
+        ],
+        "speakablespecification": [
+          {
+            "xpath": "/html/head/meta[@property='og:title']/@content"
+          }
+        ],
+        "webpageelement": [
+          {
+            "isaccessibleforfree": "False",
+            "cssselector": ".trb_ar_bd"
+          }
+        ],
+        "metatags": [
+          {
+            "author": "Scott Powers",
+            "date": "2014-11-27",
+            "copyright": "Copyright (c) 2018 Orlando Sentinel",
+            "news_keywords": "Florida Democratic Party, Bill Nelson, Val Demings",
+            "fb_title": "Nelson, Demings lead job of reviving state Democrats",
+            "og:title": "Nelson, Demings lead job of reviving state Democrats",
+            "og:description": "U.S. Sen. Bill Nelson and former Orlando Police Chief Val Demings have been tapped to take on the tough task of fixing the Florida Democratic Party",
+            "fb:page_id": "5779052556",
+            "fb:admins": "100004353067097",
+            "fb:app_id": "890804050949750",
+            "og:type": "article",
+            "og:url": "http://www.orlandosentinel.com/news/politics/os-democrats-what-went-wrong-20141127-story.html",
+            "og:image": "http://www.trbimg.com/img-5477c06a/turbine/os-democrats-what-went-wrong-20141127",
+            "og:site_name": "OrlandoSentinel.com",
+            "twitter:card": "summary",
+            "twitter:site": "@orlandosentinel",
+            "y_key": "fb73650ad672fe45",
+            "msvalidate.01": "AAC9C18F70AC386BC4DCF4DDF9BF1786",
+            "googlebot-news": "index",
+            "article:content_tier": "metered",
+            "apple-itunes-app": "app-id=402223551, app-argument=http://www.orlandosentinel.com/deeplinkid/82115371",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "x-servername": "i17prod-1a3b739-13-223.1",
+            "so:status": "5,1"
+          }
+        ],
+        "article": [
+          {
+            "articlesection": "News",
+            "headline": "Nelson, Demings lead job of reviving state Democrats",
+            "author": "Scott Powers",
+            "datepublished": "2014-11-27T18:33:00EST",
+            "articlebody": "Stung by the Nov. 4 election, Florida Democrats are turning to two Central Florida leaders, U.S. Sen. Bill Nelson and former Orlando police Chief Val Demings, to try to figure out what went...",
+            "datemodified": "2014-11-27T16:23:06-0800",
+            "isaccessibleforfree": "False"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.trbimg.com/img-5477c06a/turbine/os-democrats-what-went-wrong-20141127"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WO2016210240A1 - Combination therapy of cardiac myosin ...",
+      "htmlTitle": "WO2016210240A1 - Combination therapy of cardiac myosin ...",
+      "link": "https://google.com/patents/WO2016210240A1?cl=es",
+      "displayLink": "google.com",
+      "snippet": "Other languages: English: French; Inventor: Robert Andrew Donald SCOTT: Scott \nWasserman; Original Assignee: Amgen Inc. Priority date. The priority date is an ...",
+      "htmlSnippet": "Other languages: English: French; Inventor: Robert Andrew Donald SCOTT: \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e; Original Assignee: Amgen Inc. Priority date. The priority date is an&nbsp;...",
+      "formattedUrl": "https://google.com/patents/WO2016210240A1?cl=es",
+      "htmlFormattedUrl": "https://google.com/patents/WO2016210240A1?cl=es",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Combination therapy of cardiac myosin activator and sinus node if current inhibitor",
+            "dc.date": "2016-06-24",
+            "citation_patent_application_number": "PC:T/US2016/039198",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/04/05/79/8f51a6b8929208/WO2016210240A1.pdf",
+            "citation_patent_publication_number": "WO:2016210240:A1",
+            "dc.contributor": "Robert Andrew Donald SCOTT",
+            "dc.relation": "EP:0534859:A1",
+            "citation_reference": "GLASGOW CARDIOVASCULAR ET AL: \"Western Infi rmary and the British Heart Foundation\", LANCETPROF E M NIFONTOV MD), 20 August 2011 (2011-08-20), pages 676 - 83, XP055296326, Retrieved from the Internet  [retrieved on 20160818]"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Trevor Georgie: 'A switch went on: One day, I want to run a ...",
+      "htmlTitle": "Trevor Georgie: &#39;A switch went on: One day, I want to run a ...",
+      "link": "http://feedproxy.google.com/~r/TheGlobeAndMail-Front/~3/kL1T5wPaskc/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Sep 3, 2017 ... In September, 2015, I'm thinking I might do some consulting work with Scott, with \nWasserman. Scott says to me I'd love you to meet the folks ...",
+      "htmlSnippet": "Sep 3, 2017 \u003cb\u003e...\u003c/b\u003e In September, 2015, I&#39;m thinking I might do some consulting work with \u003cb\u003eScott\u003c/b\u003e, with \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e. \u003cb\u003eScott\u003c/b\u003e says to me I&#39;d love you to meet the folks&nbsp;...",
+      "cacheId": "Ebe2_hfmliUJ",
+      "formattedUrl": "feedproxy.google.com/~r/TheGlobeAndMail-Front/.../kL1T5wPaskc/",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/TheGlobeAndMail-Front/.../kL1T5wPaskc/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "275",
+            "height": "183",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUkkMq3PnfXO-_IrHu7Fxf_bKJjyFLSG1RbTXNBVZLpOJ8ai770Inqet9y"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "The Globe and Mail",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "last-modified": "2017-09-03T05:00:08-0400",
+            "arc-id": "H4CBAEBBRZABXFBU2BY4Z4VNB4",
+            "arc-revision": "S2VHIDENGBH5ZDPTIRMINDOH4E",
+            "release-version": "2_1_3",
+            "apple-itunes-app": "app-id=429228415",
+            "apple-mobile-web-app-title": "The Globe and Mail",
+            "msapplication-navbutton-color": "#da161f",
+            "msapplication-tilecolor": "#da161f",
+            "msapplication-tileimage": "https://www.theglobeandmail.com/resources/assets/meta/mstile-144x144.png",
+            "msapplication-config": "https://www.theglobeandmail.com/resources/assets/meta/browserconfig.xml",
+            "theme-color": "#da161f",
+            "fb:pages": "140961138903",
+            "og:site_name": "The Globe and Mail",
+            "og:locale": "en_GB",
+            "og:title": "Trevor Georgie: ‘A switch went on: One day, I want to run a professional sports organization’",
+            "og:url": "https://www.theglobeandmail.com/report-on-business/careers/management/trevor-georgie-a-switch-went-on-one-day-i-want-to-run-a-professional-sports-organization/article36146007/",
+            "og:description": "Trevor Georgie is president and general manager of the Saint John Sea Dogs",
+            "og:type": "article",
+            "article:publisher": "140961138903",
+            "article:published_time": "2017-09-03T05:00:00-0400",
+            "article:modified_time": "2017-09-03T05:00:08-0400",
+            "article:tag": "Trevor Georgie, the ladder, career advice, sports management, Saint John Sea Dogs",
+            "og:image": "https://www.theglobeandmail.com/resizer/JqTfSsvz8ZfbgQYS0xc6RYyOMxc=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/SH4GFSBM6NFRLNEBXWQRHHZF64.JPG",
+            "og:image:width": "1200",
+            "og:image:height": "799.8046875",
+            "twitter:site": "@globeandmail",
+            "twitter:creator": "@globeandmail",
+            "twitter:url": "https://www.theglobeandmail.com/report-on-business/careers/management/trevor-georgie-a-switch-went-on-one-day-i-want-to-run-a-professional-sports-organization/article36146007/",
+            "twitter:title": "Trevor Georgie: ‘A switch went on: One day, I want to run a professional sports organization’",
+            "twitter:description": "Trevor Georgie is president and general manager of the Saint John Sea Dogs",
+            "twitter:card": "summary_large_image",
+            "twitter:image": "https://www.theglobeandmail.com/resizer/XbewREfr33O5pBtXIP6ZXihdjWI=/560x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/SH4GFSBM6NFRLNEBXWQRHHZF64.JPG",
+            "twitter:image:alt": "The globe and mail"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.theglobeandmail.com/resizer/JqTfSsvz8ZfbgQYS0xc6RYyOMxc=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/SH4GFSBM6NFRLNEBXWQRHHZF64.JPG"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Relationship Between Polydispersity and Linear Viscoelasticity in",
+      "htmlTitle": "The Relationship Between Polydispersity and Linear Viscoelasticity in",
+      "link": "https://books.google.com/books/about/The_Relationship_Between_Polydispersity.html?id=t28inQEACAAJ&hl=en&output=html_text",
+      "displayLink": "books.google.com",
+      "snippet": "Title, The Relationship Between Polydispersity and Linear Viscoelasticity in \nEntangled Polymer Melts. Author, Scott Hanley Wasserman. Published, 1994.",
+      "htmlSnippet": "Title, The Relationship Between Polydispersity and Linear Viscoelasticity in \u003cbr\u003e\nEntangled Polymer Melts. Author, \u003cb\u003eScott\u003c/b\u003e Hanley \u003cb\u003eWasserman\u003c/b\u003e. Published, 1994.",
+      "formattedUrl": "https://books.google.com/.../The_Relationship_Between_Polydispersity.html? ...",
+      "htmlFormattedUrl": "https://books.google.com/.../The_Relationship_Between_Polydispersity.html? ...",
+      "pagemap": {
+        "book": [
+          {
+            "description": "books.google.com",
+            "url": "https://books.google.com/books/about/The_Relationship_Between_Polydispersity.html?id=t28inQEACAAJ&utm_source=gb-gplus-share",
+            "name": "The Relationship Between Polydispersity and Linear Viscoelasticity in Entangled Polymer Melts",
+            "image": "https://books.google.com/books/content?id=t28inQEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/The_Relationship_Between_Polydispersity.html?id=t28inQEACAAJ",
+            "title": "The Relationship Between Polydispersity and Linear Viscoelasticity in Entangled Polymer Melts",
+            "og:title": "The Relationship Between Polydispersity and Linear Viscoelasticity in Entangled Polymer Melts",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=t28inQEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "The Relationship Between Polydispersity and Linear Viscoelasticity in Entangled Polymer Melts"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=t28inQEACAAJ&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US20100027948A1 - Cable Comprising a Shear Thickening ...",
+      "htmlTitle": "US20100027948A1 - Cable Comprising a Shear Thickening ...",
+      "link": "https://www.google.com/patents/US20100027948",
+      "displayLink": "www.google.com",
+      "snippet": "Inventor: Scott H. Wasserman: Jeffrey M. Cogen: Timothy J. Person: Laurence H. \nGross; Current Assignee. The listed assignees may be inaccurate. Google has ...",
+      "htmlSnippet": "Inventor: \u003cb\u003eScott\u003c/b\u003e H. \u003cb\u003eWasserman\u003c/b\u003e: Jeffrey M. Cogen: Timothy J. Person: Laurence H. \u003cbr\u003e\nGross; Current Assignee. The listed assignees may be inaccurate. Google has&nbsp;...",
+      "formattedUrl": "https://www.google.com/patents/US20100027948",
+      "htmlFormattedUrl": "https://www.google.com/patents/US20100027948",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "93",
+            "height": "120",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVOyt5VpSn9e_jA6rULS8TWkxNxvM6q7vcYM0grb_WtPVmA0lyfpEdA"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Cable Comprising a Shear Thickening Composition",
+            "dc.date": "2007-11-29",
+            "dc.description": "Shear thickening compositions can function in an energy or communications transmission cable to provide enhanced protection against externally applied forces, e.g., cutting or puncture from a shovel. As a free or bound layer, or when used via impregnation into a substrate used for an internal component or wrap, the shear thickening composition provides protection against mechanical damage that far surpasses conventional technologies. In foamable compositions for cable components, the shear thickening composition provides enhanced integrity of the polymer melt for enhanced foam performance. As a flame retardant component, the shear thickening composition provides an enhanced char formation mechanism for superior flame retardance.",
+            "citation_patent_application_number": "US:12/517,326",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/e0/55/e9/c1623e73f239d0/US20100027948A1.pdf",
+            "citation_patent_publication_number": "US:20100027948:A1",
+            "dc.contributor": "Scott H. Wasserman",
+            "dc.relation": "US:4366075"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/pages/US20100027948-3.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Wasserman Schultz backs Iran deal | TheHill",
+      "htmlTitle": "\u003cb\u003eWasserman\u003c/b\u003e Schultz backs Iran deal | TheHill",
+      "link": "http://feedproxy.google.com/~r/DrudgeReportFeed/~3/1nn0-9BBfX4/252853-wasserman-schultz-backs-iran-deal",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "By Scott Wong - 09/06/15 09:46 AM EDT 420 ... Democratic National Committee \nChairwoman Debbie Wasserman Schultz · Deborah (Debbie) Wasserman ... But \nthe Iran issue had put Wasserman Schultz in a tricky spot, torn between the ...",
+      "htmlSnippet": "By \u003cb\u003eScott\u003c/b\u003e Wong - 09/06/15 09:46 AM EDT 420 ... Democratic National Committee \u003cbr\u003e\nChairwoman Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz &middot; Deborah (Debbie) \u003cb\u003eWasserman\u003c/b\u003e ... But \u003cbr\u003e\nthe Iran issue had put \u003cb\u003eWasserman\u003c/b\u003e Schultz in a tricky spot, torn between the&nbsp;...",
+      "cacheId": "Op81omDY_CAJ",
+      "formattedUrl": "feedproxy.google.com/.../252853-wasserman-schultz-backs-iran-deal",
+      "htmlFormattedUrl": "feedproxy.google.com/.../252853-\u003cb\u003ewasserman\u003c/b\u003e-schultz-backs-iran-deal",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "299",
+            "height": "168",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYxgxn3Sd4mxRbTKyo1Pn53HfPtcLQSePId1_fNIMNwWS5zgbA2rYKQ_SX"
+          }
+        ],
+        "metatags": [
+          {
+            "author": "Scott Wong",
+            "fb:admins": "581787871",
+            "fb:app_id": "566538590082898",
+            "fb:pages": "7533944086,2064147433830888",
+            "og:site_name": "TheHill",
+            "og:type": "article",
+            "og:title": "Wasserman Schultz backs Iran deal",
+            "og:url": "https://thehill.com/policy/international/252853-wasserman-schultz-backs-iran-deal",
+            "og:description": "There had been speculation she would break with Obama.",
+            "og:updated_time": "2015-09-08T06:03:34-04:00",
+            "og:image": "https://thehill.com/sites/default/files/blogs/wasserman-schultz-debbie_031814aw_0.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "Wasserman Schultz backs Iran deal",
+            "twitter:url": "https://thehill.com/policy/international/252853-wasserman-schultz-backs-iran-deal",
+            "twitter:description": "There had been speculation she would break with Obama.",
+            "article:published_time": "2015-09-06T09:46:42-04:00",
+            "article:modified_time": "2015-09-08T06:03:34-04:00",
+            "dcterms.title": "Wasserman Schultz backs Iran deal",
+            "dcterms.creator": "Kyle Balluck",
+            "dcterms.description": "There had been speculation she would break with Obama.",
+            "dcterms.date": "2015-09-06T09:46-04:00",
+            "dcterms.type": "Text",
+            "dcterms.format": "text/html",
+            "dcterms.identifier": "https://thehill.com/policy/international/252853-wasserman-schultz-backs-iran-deal",
+            "twitter:widgets:csp": "on",
+            "apple-itunes-app": "app-id=396640962"
+          }
+        ],
+        "Item": [
+          {
+            "title": "Wasserman Schultz backs Iran deal",
+            "encoded": "Democratic National Committee Chairwoman Debbie Wasserman SchultzDeborah (Debbie) Wasserman SchultzSingle fingerprint, misspellings pointed FBI to mail bombs suspect Piers Morgan: Trump can't..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thehill.com/sites/default/files/blogs/wasserman-schultz-debbie_031814aw_0.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Patent EP2707029A1 - Methods of treating or preventing cholesterol ...",
+      "htmlTitle": "Patent EP2707029A1 - Methods of treating or preventing cholesterol ...",
+      "link": "https://www.google.com/patents/EP2707029A1?cl=enIt",
+      "displayLink": "www.google.com",
+      "snippet": "Mar 19, 2014 ... Inventors, Joyce Chi Yee Chan, John P. GIBBS, Clapton S. DIAS, Scott \nWasserman, Robert Andrew Donald Scott, Christi L. Clogston, Timothy ...",
+      "htmlSnippet": "Mar 19, 2014 \u003cb\u003e...\u003c/b\u003e Inventors, Joyce Chi Yee Chan, John P. GIBBS, Clapton S. DIAS, \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e, Robert Andrew Donald Scott, Christi L. Clogston, Timothy&nbsp;...",
+      "formattedUrl": "https://www.google.com/patents/EP2707029A1?cl=enIt",
+      "htmlFormattedUrl": "https://www.google.com/patents/EP2707029A1?cl=enIt",
+      "pagemap": {
+        "book": [
+          {
+            "description": "The present invention relates to methods of treating or preventing cholesterol related disorders, such as hypercholesterolemia, hyperlipidemia or dyslipidemia, using antibodies against proprotein...",
+            "url": "https://www.google.com/patents/EP2707029A1?cl=enIt&utm_source=gb-gplus-share",
+            "name": "Patent EP2707029A1 - Methods of treating or preventing cholesterol related disorders",
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.type": "Patent",
+            "dc.title": "Methods of treating or preventing cholesterol related disorders",
+            "dc.contributor": "Joyce Chi Yee Chan",
+            "dc.date": "2012-5-10",
+            "citation_patent_publication_number": "EP:2707029:A1",
+            "citation_patent_application_number": "EP:20120722044",
+            "og:url": "https://www.google.com/patents/EP2707029A1?cl=enIt",
+            "title": "Patent EP2707029A1 - Methods of treating or preventing cholesterol related disorders",
+            "og:title": "Patent EP2707029A1 - Methods of treating or preventing cholesterol related disorders",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative ...",
+      "htmlTitle": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative ...",
+      "link": "https://books.google.com/books/about/Fabrigami.html?id=vS1DjwEACAAJ",
+      "displayLink": "books.google.com",
+      "snippet": "Nov 8, 2016 ... Now, Stovall—with the help of Scott Stern, a rising young star of origami—brings \n... Jill Stovall, Scott Wasserman Stern, Florence Temko.",
+      "htmlSnippet": "Nov 8, 2016 \u003cb\u003e...\u003c/b\u003e Now, Stovall—with the help of Scott Stern, a rising young star of origami—brings \u003cbr\u003e\n... Jill Stovall, \u003cb\u003eScott Wasserman\u003c/b\u003e Stern, Florence Temko.",
+      "formattedUrl": "https://books.google.com/books/about/Fabrigami.html?id...",
+      "htmlFormattedUrl": "https://books.google.com/books/about/Fabrigami.html?id...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "128",
+            "height": "165",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwJ0JFOcWeBOlyeT3ZsMuy9kJBCvtzkTnmYlbOy81zpife1F07Qvvm-OLT"
+          }
+        ],
+        "book": [
+          {
+            "description": "books.google.com - Fold decorative origami objects out of cloth with this easy-to-use origami book.Fabrigami is the Asian art of folding fabrics to create three-dimensional objects ranging...",
+            "url": "https://books.google.com/books/about/Fabrigami.html?id=vS1DjwEACAAJ&utm_source=gb-gplus-share",
+            "name": "Fabrigami",
+            "image": "https://books.google.com/books/content?id=vS1DjwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ABua35ousq1UBa1mdAEjM7XfBMBlCrHIa9ryVdG80YBOwgvwEJSem8hFD22Y9MBwsZ9uCkh1-tgnu2WzkpqdXgRp001COb5j3Psm99MoQWutcavy0IqG3zEba1NxEfczNIEVO"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Fabrigami.html?id=vS1DjwEACAAJ",
+            "title": "Fabrigami",
+            "og:title": "Fabrigami",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=vS1DjwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ABua35ousq1UBa1mdAEjM7XfBMBlCrHIa9ryVdG80YBOwgvwEJSem8hFD22Y9MBwsZ9uCkh1-tgnu2WzkpqdXgRp001COb5j3Psm99MoQWutcavy0IqG3zEba1NxEfczNIEVO"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Fabrigami"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "url": "Crafts & Hobbies",
+            "title": "Crafts & Hobbies"
+          },
+          {
+            "url": "Origami",
+            "title": "Origami"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=vS1DjwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ABua35ousq1UBa1mdAEjM7XfBMBlCrHIa9ryVdG80YBOwgvwEJSem8hFD22Y9MBwsZ9uCkh1-tgnu2WzkpqdXgRp001COb5j3Psm99MoQWutcavy0IqG3zEba1NxEfczNIEVO"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "House: Three More GOP Seats Join the Toss Up Column | The Cook ...",
+      "htmlTitle": "House: Three More GOP Seats Join the Toss Up Column | The Cook ...",
+      "link": "http://feedproxy.google.com/~r/DrudgeReportFeed/~3/1lN529CQrPw/house-three-more-gop-seats-join-toss-column/amp/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Aug 15, 2018 ... Wasserman Photo. David Wasserman .... In the May primary, Democrats \nnominated pastor and retired Army officer George Scott with 36 ...",
+      "htmlSnippet": "Aug 15, 2018 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWasserman\u003c/b\u003e Photo. David \u003cb\u003eWasserman\u003c/b\u003e .... In the May primary, Democrats \u003cbr\u003e\nnominated pastor and retired Army officer George \u003cb\u003eScott\u003c/b\u003e with 36&nbsp;...",
+      "cacheId": "vVPNAJmgxywJ",
+      "formattedUrl": "feedproxy.google.com/~r/DrudgeReportFeed/~3/...three.../amp/",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/DrudgeReportFeed/~3/...three.../amp/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "318",
+            "height": "159",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOf6uFm4hlP8Xpj_9cml7SDUMGrYMq5ivX0Z6BZ2cb2v_XME7_53MIHqc"
+          }
+        ],
+        "Article": [
+          {
+            "name": "House: Three More GOP Seats Join the Toss Up Column",
+            "interactionCount": "UserComments:0",
+            "text": "For Republicans, the 2018 House playing field is a lot like a game of Whack-a-Mole: everywhere they turn, new problems keep popping up in surprising places. In January, we rated 20 GOP-held..."
+          }
+        ],
+        "metatags": [
+          {
+            "title": "House: Three More GOP Seats Join the Toss Up Column | The Cook Political Report",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "The Cook Political Report",
+            "fb:app_id": "1165171463516462",
+            "twitter:site": "@CookPolitical",
+            "twitter:title": "House: Three More GOP Seats Join the Toss Up Column | The Cook Political Report",
+            "twitter:description": "For Republicans, the 2018 House playing field is a lot like a game of Whack-a-Mole: everywhere they turn, new problems keep popping up in surprising places. In January, we rated 20 GOP-held seats as Toss Ups or worse, including three leaning towards Democrats. With today's changes, we now rate 37 GOP-held seats as Toss Ups or worse, including ten leaning towards Democrats.",
+            "og:url": "https://www.cookpolitical.com/analysis/house/house-overview/house-three-more-gop-seats-join-toss-column",
+            "twitter:site:id": "191477653",
+            "og:title": "House: Three More GOP Seats Join the Toss Up Column",
+            "og:description": "For Republicans, the 2018 House playing field is a lot like a game of Whack-a-Mole: everywhere they turn, new problems keep popping up in surprising places. In January, we rated 20 GOP-held seats as Toss Ups or worse, including three leaning towards Democrats. With today's changes, we now rate 37 GOP-held seats as Toss Ups or worse, including ten leaning towards Democrats.",
+            "twitter:url": "https://www.cookpolitical.com/analysis/house/house-overview/house-three-more-gop-seats-join-toss-column",
+            "twitter:image:height": "120px",
+            "twitter:image:width": "120px",
+            "twitter:image": "https://www.cookpolitical.com/sites/default/files/styles/twitter_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=iGM2X59H",
+            "og:image": "https://www.cookpolitical.com/sites/default/files/styles/og_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=b0Da6-7D",
+            "og:image:url": "https://www.cookpolitical.com/sites/default/files/styles/og_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=b0Da6-7D",
+            "og:image:secure_url": "https://www.cookpolitical.com/sites/default/files/styles/og_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=b0Da6-7D",
+            "twitter:gallery:image0": "https://www.cookpolitical.com/sites/default/files/styles/twitter_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=iGM2X59H",
+            "mobileoptimized": "width",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cookpolitical.com/sites/default/files/styles/og_image/public/2018-08/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20AW%20Column%2010%20%285%29.png?h=827069f2&itok=b0Da6-7D"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "John Scott - Google Scholar Citations",
+      "htmlTitle": "John \u003cb\u003eScott\u003c/b\u003e - Google Scholar Citations",
+      "link": "https://scholar.google.com/citations?user=381i0FIAAAAJ&hl=th",
+      "displayLink": "scholar.google.com",
+      "snippet": "John Scott. ไม่รู้จักเครือข่าย ... PJ Carrington, J Scott, S Wasserman. Cambridge ... \nS Korsching, G Auburger, R Heumann, J Scott, H Thoenen. The EMBO journal 4\n ...",
+      "htmlSnippet": "John \u003cb\u003eScott\u003c/b\u003e. ไม่รู้จักเครือข่าย ... PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge ... \u003cbr\u003e\nS Korsching, G Auburger, R Heumann, J \u003cb\u003eScott\u003c/b\u003e, H Thoenen. The EMBO journal 4\u003cbr\u003e\n&nbsp;...",
+      "cacheId": "fjCYs5n-gDUJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=381i0FIAAAAJ&hl=th",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=381i0FIAAAAJ&amp;hl=th",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "128",
+            "height": "128",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcAv00aLcAwsVMFtOUXyJsDHdjQGbKupSQebyfs0CmWWBD_BDoYAP3vzg"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysisJ ScottSage, 2017136362017"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "John Scott",
+            "title": "ไม่รู้จักเครือข่าย"
+          }
+        ],
+        "person": [
+          {
+            "org": "plymouth.ac.uk",
+            "role": "ไม่รู้จักเครือข่าย"
+          },
+          {
+            "name": "John Scott",
+            "jobtitle": "ไม่รู้จักเครือข่าย",
+            "worksfor": "plymouth.ac.uk"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DNC Chair Says Republican 'Has Given Women the Back of His Hand'",
+      "htmlTitle": "DNC Chair Says Republican &#39;Has Given Women the Back of His Hand&#39;",
+      "link": "https://feedproxy.google.com/~r/time/topstories/~3/U00L654eHKw/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Sep 3, 2014 ... DNC Chair Debbie Wasserman Schultz escalates the War on Women ... Scott \nWalker speaks at the Republican National Committee summer ...",
+      "htmlSnippet": "Sep 3, 2014 \u003cb\u003e...\u003c/b\u003e DNC Chair Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz escalates the War on Women ... \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\nWalker speaks at the Republican National Committee summer&nbsp;...",
+      "cacheId": "e25yi3tzKOkJ",
+      "formattedUrl": "https://feedproxy.google.com/~r/time/topstories/.../U00L654eHKw/",
+      "htmlFormattedUrl": "https://feedproxy.google.com/~r/time/topstories/.../U00L654eHKw/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "294",
+            "height": "171",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRYD_9mP_K6e6VZtNNH62eev5tV6jonWN_PbedFxsL5niKjOjPauvTyoE"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no",
+            "news_keywords": "women, debbie wasserman schultz, mary burke, scott walker, Has Given Women the Back of His Hand",
+            "og:title": "DNC Chair Says Republican 'Has Given Women the Back of His Hand'",
+            "og:type": "article",
+            "og:site_name": "Time",
+            "og:url": "http://time.com/3265447/walker-shultz-dnc-domestic-violence/",
+            "og:description": "DNC Chair Debbie Wasserman Schultz escalates the War on Women rhetoric in ripping Wisconsin Gov. Scott Walker",
+            "pinterest:url": "http://time.com/3265447/walker-shultz-dnc-domestic-violence/",
+            "twitter:card": "summary_large_image",
+            "twitter:url": "http://time.com/3265447/walker-shultz-dnc-domestic-violence/",
+            "twitter:title": "DNC Chair Says Republican 'Has Given Women the Back of His Hand'",
+            "twitter:description": "DNC Chair Debbie Wasserman Schultz escalates the War on Women rhetoric in ripping Wisconsin Gov. Scott Walker",
+            "pinterest:description": "DNC Chair Debbie Wasserman Schultz escalates the War on Women rhetoric in ripping Wisconsin Gov. Scott Walker",
+            "twitter:site": "@TIME",
+            "pinterest:media": "https://timedotcom.files.wordpress.com/2014/08/ap570206708635.jpg?quality=85",
+            "twitter:image": "https://timedotcom.files.wordpress.com/2014/08/ap570206708635.jpg?quality=85",
+            "og:image": "https://timedotcom.files.wordpress.com/2014/08/ap570206708635.jpg?quality=85",
+            "og:image:width": "1024",
+            "og:image:height": "596",
+            "fb:app_id": "53177223193",
+            "fb:pages": "10606591490"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://timedotcom.files.wordpress.com/2014/08/ap570206708635.jpg?quality=85"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Google Scholar Citations",
+      "htmlTitle": "Peter J. Carrington - Google Scholar Citations",
+      "link": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=ja",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1885, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1885, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "vREBIXDtcFgJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200518852005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nolan Arenado Switches To Wasserman Media Group - MLB Trade ...",
+      "htmlTitle": "Nolan Arenado Switches To \u003cb\u003eWasserman\u003c/b\u003e Media Group - MLB Trade ...",
+      "link": "http://feedproxy.google.com/~r/MlbTradeRumors/~3/K9gAuxAqvOI/nolan-arenado-changes-agents.html",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Nov 4, 2015 ... Rockies third baseman Nolan Arenado has changed representation, leaving \nagent Scott Boras and signing on with agents Joel Wolfe and Nick ...",
+      "htmlSnippet": "Nov 4, 2015 \u003cb\u003e...\u003c/b\u003e Rockies third baseman Nolan Arenado has changed representation, leaving \u003cbr\u003e\nagent \u003cb\u003eScott\u003c/b\u003e Boras and signing on with agents Joel Wolfe and Nick&nbsp;...",
+      "cacheId": "EK9Aan3KCuQJ",
+      "formattedUrl": "feedproxy.google.com/~r/.../~3/.../nolan-arenado-changes-agents.html",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/.../~3/.../nolan-arenado-changes-agents.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "272",
+            "height": "186",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYpelV2QeiUs0Nj8xIxUfS9Nc5GUzH2lyUZ1t3pn54KtOA1ppRvXTnFvH-"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Nolan Arenado Switches To Wasserman Media Group",
+            "og:type": "blog",
+            "og:description": "Rockies third baseman Nolan Arenado has changed representation and is now a client of the Wasserman Media Group. Read more at MLB Trade Rumors.",
+            "og:image": "https://cdn.mlbtraderumors.com/files/2015/11/USATSI_8777504-1024x700.jpg",
+            "og:url": "https://www.mlbtraderumors.com/2015/11/nolan-arenado-changes-agents.html",
+            "og:site_name": "MLB Trade Rumors",
+            "twitter:title": "Nolan Arenado Switches To Wasserman Media Group",
+            "twitter:card": "summary_large_image",
+            "twitter:description": "Rockies third baseman Nolan Arenado has changed representation and is now a client of the Wasserman Media Group. Read more at MLB Trade Rumors.",
+            "twitter:image": "https://cdn.mlbtraderumors.com/files/2015/11/USATSI_8777504-1024x700.jpg",
+            "twitter:url": "https://www.mlbtraderumors.com/2015/11/nolan-arenado-changes-agents.html",
+            "fb:pages": "19962522840",
+            "msapplication-config": "https://www.mlbtraderumors.com/wp-content/themes/mlbtr2015/images/browserconfig.xml?v=ngkBbGyONn",
+            "theme-color": "#ffffff"
+          }
+        ],
+        "creativework": [
+          {
+            "headline": "Nolan Arenado Switches To Wasserman Media Group",
+            "name": "Steve Adams",
+            "datepublished": "2015-11-04T17:04:51+00:00",
+            "text": "Rockies third baseman Nolan Arenado has changed representation, leaving agent Scott Boras and signing on with agents Joel Wolfe and Nick Chanock of the Wasserman Media Group, according to Ken..."
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "url": "Home",
+            "name": "Home"
+          }
+        ],
+        "webpage": [
+          {
+            "url": "Feeds by Team"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.mlbtraderumors.com/files/2015/11/USATSI_8777504-1024x700.jpg"
+          }
+        ],
+        "wpheader": [
+          {
+            "headline": "MLB Trade Rumors"
+          }
+        ],
+        "wpsidebar": [
+          {
+            "headline": "Dodgers Reportedly Nearing Extension With Dave Roberts"
+          }
+        ],
+        "searchaction": [
+          {
+            "target": "https://www.mlbtraderumors.com/?s={s}",
+            "query-input": "name=s"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WO2002085922A2 - Proteins and nucleic acids encoding same ...",
+      "htmlTitle": "WO2002085922A2 - Proteins and nucleic acids encoding same ...",
+      "link": "http://www.google.com/patents/WO2002085922A2?cl=pt",
+      "displayLink": "www.google.com",
+      "snippet": "Apr 23, 2001 ... ... Mehraban: James N. Topper: Uriel M. Malyankar: Scott Wasserman: R. Shlomit \nEdinger: Glennda Smithson: Erik Gunther: Laszlo Komuves ...",
+      "htmlSnippet": "Apr 23, 2001 \u003cb\u003e...\u003c/b\u003e ... Mehraban: James N. Topper: Uriel M. Malyankar: \u003cb\u003eScott Wasserman\u003c/b\u003e: R. Shlomit \u003cbr\u003e\nEdinger: Glennda Smithson: Erik Gunther: Laszlo Komuves&nbsp;...",
+      "formattedUrl": "www.google.com/patents/WO2002085922A2?cl=pt",
+      "htmlFormattedUrl": "www.google.com/patents/WO2002085922A2?cl=pt",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Proteins and nucleic acids encoding same",
+            "dc.date": "2002-04-11",
+            "citation_patent_application_number": "PC:T/US2002/011634",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/cd/35/1c/a8a074fead8736/WO2002085922A2.pdf",
+            "citation_patent_publication_number": "WO:2002085922:A2",
+            "dc.contributor": "Carol E. A. Pena",
+            "dc.relation": "WO:2000058473:A2",
+            "citation_reference": "DATABASE PROTEIN [Online] NAGASE ET AL.: 'Prediction of the coding sequences of unidentified human genes', XP002959446 Retrieved from EMBL Database accession no. (BAA86588) & DNA RES vol. 6, no. 5, 11 November 1999, pages 337 - 345"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Artisan Mobile raises $5.5 million Series A, moves into new office ...",
+      "htmlTitle": "Artisan Mobile raises $5.5 million Series A, moves into new office ...",
+      "link": "http://feedproxy.google.com/~r/TechnicallyPhilly/~3/wPu_eNwU9iI/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Jun 26, 2013 ... Each conference room will have a different theme, Artisan founder Scott \nWasserman told us, including “The Louvre” and “Tokyo,” where he'll ...",
+      "htmlSnippet": "Jun 26, 2013 \u003cb\u003e...\u003c/b\u003e Each conference room will have a different theme, Artisan founder \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e told us, including “The Louvre” and “Tokyo,” where he&#39;ll&nbsp;...",
+      "cacheId": "LHBii_u4TrIJ",
+      "formattedUrl": "feedproxy.google.com/~r/TechnicallyPhilly/~3/wPu_eNwU9iI/",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/TechnicallyPhilly/~3/wPu_eNwU9iI/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "275",
+            "height": "183",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp9VGP2TOsC8darh13uUy_QoMsbYBf1_KPrhIMGIXauZO7ncae3OZp3UBE"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=0.96,width=device-width",
+            "fb:app_id": "1011285523",
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "Artisan Mobile raises $5.5 million Series A, moves into new office [PHOTOS] - Technical.ly Philly",
+            "og:description": "The mobile app management startup will use the funding to ramp up sales and marketing efforts, as well as for product development.",
+            "og:url": "https://technical.ly/philly/2013/06/26/artisan-mobile-series-a/",
+            "og:site_name": "Technical.ly Philly",
+            "article:tag": "investment",
+            "article:section": "Business",
+            "article:published_time": "2013-06-26T10:30:33-04:00",
+            "article:modified_time": "2013-06-27T13:17:41-04:00",
+            "og:updated_time": "2013-06-27T13:17:41-04:00",
+            "og:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/06/artisan2.jpg",
+            "og:image:secure_url": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/06/artisan2.jpg",
+            "og:image:width": "640",
+            "og:image:height": "427",
+            "twitter:card": "summary",
+            "twitter:site": "@technicallyPHL",
+            "twitter:domain": "Technical.ly Philly",
+            "twitter:creator": "@juliana_f_reyes",
+            "twitter:title": "Artisan Mobile raises $5.5 million Series A, moves into new office [PHOTOS]",
+            "twitter:url": "https://technical.ly/philly/2013/06/26/artisan-mobile-series-a/",
+            "twitter:description": "The mobile app management startup will use the funding to ramp up sales and marketing efforts, as well as for product development.",
+            "twitter:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/06/artisan2.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/06/artisan2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Models and Methods in Social Network Analysis - Google Books",
+      "htmlTitle": "Models and Methods in Social Network Analysis - Google Books",
+      "link": "https://books.google.com/books/about/Models_and_Methods_in_Social_Network_Ana.html?id=4Ty5xP_KcpAC",
+      "displayLink": "books.google.com",
+      "snippet": "Models and Methods in Social Network Analysis. Front Cover. Peter J. Carrington\n, John Scott, Stanley Wasserman. Cambridge University Press, Feb 7, 2005 ...",
+      "htmlSnippet": "Models and Methods in Social Network Analysis. Front Cover. Peter J. Carrington\u003cbr\u003e\n, John \u003cb\u003eScott\u003c/b\u003e, Stanley \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, Feb 7, 2005&nbsp;...",
+      "formattedUrl": "https://books.google.com/.../Models_and_Methods_in_Social_Network_Ana. html?...",
+      "htmlFormattedUrl": "https://books.google.com/.../Models_and_Methods_in_Social_Network_Ana. html?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "128",
+            "height": "192",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYPEBmRc3J65EJnATLT5G5Ofg_jxgTu33egA2XXJNSfxcKd46DHFuCrtE"
+          }
+        ],
+        "book": [
+          {
+            "description": "books.google.com - Models and Methods in Social Network Analysis, first published in 2005, presents the most important developments in quantitative models and methods for analyzing social network...",
+            "url": "https://books.google.com/books/about/Models_and_Methods_in_Social_Network_Ana.html?id=4Ty5xP_KcpAC&utm_source=gb-gplus-share",
+            "name": "Models and Methods in Social Network Analysis",
+            "image": "https://books.google.com/books/content?id=4Ty5xP_KcpAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70eNV7KHf-5b7bBxWI9d2oTY2r_ZShoVq8-YeYslXuLfvQdLPVOczLLA5IbIU5RvlYxnvQySqGuU3fx9-6ShcRCYASPqJU8cpPsyq6rfEUQq_Tb0xt-uJvJ_6vYzYYZXa0KGcDy"
+          }
+        ],
+        "metatags": [
+          {
+            "og:url": "https://books.google.com/books/about/Models_and_Methods_in_Social_Network_Ana.html?id=4Ty5xP_KcpAC",
+            "title": "Models and Methods in Social Network Analysis",
+            "og:title": "Models and Methods in Social Network Analysis",
+            "og:type": "book",
+            "og:site_name": "Google Books",
+            "og:image": "https://books.google.com/books/content?id=4Ty5xP_KcpAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70eNV7KHf-5b7bBxWI9d2oTY2r_ZShoVq8-YeYslXuLfvQdLPVOczLLA5IbIU5RvlYxnvQySqGuU3fx9-6ShcRCYASPqJU8cpPsyq6rfEUQq_Tb0xt-uJvJ_6vYzYYZXa0KGcDy"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Models and Methods in Social Network Analysis"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "url": "Social Science",
+            "title": "Social Science"
+          },
+          {
+            "url": "Sociology",
+            "title": "Sociology"
+          },
+          {
+            "url": "General",
+            "title": "General"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://books.google.com/books/content?id=4Ty5xP_KcpAC&pg=PR5&img=1&zoom=1&sig=ACfU3U3YPIOntv2DW1vUwzbfa9ykIo1XHg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DNC chairwoman: Walker gave women 'the back of his hand ...",
+      "htmlTitle": "DNC chairwoman: Walker gave women &#39;the back of his hand ...",
+      "link": "http://feedproxy.google.com/~r/cnn/ktlP/~3/UvHIUkct-1o/index.html?utm_source=feedburner&utm_medium=email",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Sep 4, 2014 ... Scott Walker of Wisconsin on Wednesday. ... Debbie Wasserman Schultz blasted \nWalker for his policies, saying he \"has given women the back ...",
+      "htmlSnippet": "Sep 4, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eScott\u003c/b\u003e Walker of Wisconsin on Wednesday. ... Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz blasted \u003cbr\u003e\nWalker for his policies, saying he &quot;has given women the back&nbsp;...",
+      "formattedUrl": "feedproxy.google.com/~r/cnn/ktlP/~3/UvHIUkct-1o/index.html?...",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/cnn/ktlP/~3/UvHIUkct-1o/index.html?...",
+      "pagemap": {
+        "thumbnail": [
+          {
+            "src": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+            "section": "politics",
+            "referrer": "unsafe-url",
+            "og:pubdate": "2014-09-03T22:29:35Z",
+            "pubdate": "2014-09-03T22:29:35Z",
+            "lastmod": "2014-09-04T16:24:52Z",
+            "og:url": "https://www.cnn.com/2014/09/03/politics/dws-scott-walker/index.html",
+            "author": "By Ashley Killough, CNN",
+            "source": "CNN",
+            "og:description": "The chairwoman of the Democratic National Committee used domestic violence analogies while attacking Gov. Scott Walker of Wisconsin on Wednesday.",
+            "twitter:description": "The chairwoman of the Democratic National Committee used domestic violence analogies while attacking Gov. Scott Walker of Wisconsin on Wednesday.",
+            "og:site_name": "CNN",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "og:image": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "og:image:width": "460",
+            "og:image:height": "259",
+            "thumbnail": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "twitter:image": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "vr:canonical": "https://www.cnn.com/2014/09/03/politics/dws-scott-walker/index.html",
+            "fb:app_id": "80401312489",
+            "fb:pages": "5550296508,18793419640"
+          }
+        ],
+        "newsarticle": [
+          {
+            "ispartof": "politics",
+            "articlesection": "politics",
+            "datecreated": "2014-09-03T22:29:35Z",
+            "datepublished": "2014-09-03T22:29:35Z",
+            "datemodified": "2014-09-04T16:24:52Z",
+            "url": "https://www.cnn.com/2014/09/03/politics/dws-scott-walker/index.html",
+            "author": "By Ashley Killough, CNN",
+            "sourceorganization": "CNN",
+            "headline": "DNC chairwoman: Walker gave women 'the back of his hand' - CNNPolitics",
+            "description": "The chairwoman of the Democratic National Committee used domestic violence analogies while attacking Gov. Scott Walker of Wisconsin on Wednesday.",
+            "keywords": "politics, DNC chairwoman: Walker gave women 'the back of his hand' - CNNPolitics",
+            "image": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "thumbnailurl": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "alternativeheadline": "DNC chairwoman: Walker 'has given women the back of his hand'",
+            "articlebody": "Story highlightsDNC chairwoman said Gov. Scott Walker \"has given women the back of his hand\"Spokeswoman said she was \"by no means belittling\" pain of domestic abuse survivorsLt. Gov. Rebecca..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.cnn.com/cnnnext/dam/assets/121203021538-debbie-wasserman-schultz-story-top.jpg",
+            "type": "1",
+            "width": "300",
+            "height": "168"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "John Scott - Google 学术搜索引用",
+      "htmlTitle": "John \u003cb\u003eScott\u003c/b\u003e - Google 学术搜索引用",
+      "link": "https://scholar.google.com/citations?user=381i0FIAAAAJ&hl=zh-CN",
+      "displayLink": "scholar.google.com",
+      "snippet": "John Scott. 未知所在单位机构 ... PJ Carrington, J Scott, S Wasserman. Cambridge \n... S Korsching, G Auburger, R Heumann, J Scott, H Thoenen. The EMBO ...",
+      "htmlSnippet": "John \u003cb\u003eScott\u003c/b\u003e. 未知所在单位机构 ... PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge \u003cbr\u003e\n... S Korsching, G Auburger, R Heumann, J \u003cb\u003eScott\u003c/b\u003e, H Thoenen. The EMBO&nbsp;...",
+      "cacheId": "tBI_Tmto-TEJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=381i0FIAAAAJ&hl=zh...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=381i0FIAAAAJ&amp;hl=zh...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "128",
+            "height": "128",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcAv00aLcAwsVMFtOUXyJsDHdjQGbKupSQebyfs0CmWWBD_BDoYAP3vzg"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysisJ ScottSage, 2017138092017"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "John Scott",
+            "title": "未知所在单位机构"
+          }
+        ],
+        "person": [
+          {
+            "org": "plymouth.ac.uk",
+            "role": "未知所在单位机构"
+          },
+          {
+            "name": "John Scott",
+            "jobtitle": "未知所在单位机构",
+            "worksfor": "plymouth.ac.uk"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stan Wasserman - Google 學術搜尋引用文獻",
+      "htmlTitle": "Stan \u003cb\u003eWasserman\u003c/b\u003e - Google 學術搜尋引用文獻",
+      "link": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&hl=zh-TW",
+      "displayLink": "scholar.google.com",
+      "snippet": "Stan Wasserman. Rudy Professor of ... PJ Carrington, J Scott, S Wasserman. \nCambridge ... G Wasserman, JH Graziano, P Factor-Litvak, D Popovac, N Morina, \n.",
+      "htmlSnippet": "Stan \u003cb\u003eWasserman\u003c/b\u003e. Rudy Professor of ... PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. \u003cbr\u003e\nCambridge ... G \u003cb\u003eWasserman\u003c/b\u003e, JH Graziano, P Factor-Litvak, D Popovac, N Morina, \u003cbr\u003e\n.",
+      "cacheId": "oeiFLMDzIdMJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&hl...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&amp;hl...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysis: Methods and applicationsS Wasserman, K FaustCambridge University Press, 1994315851994"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Stan Wasserman",
+            "title": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          }
+        ],
+        "person": [
+          {
+            "org": "indiana.edu",
+            "role": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          },
+          {
+            "name": "Stan Wasserman",
+            "jobtitle": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University",
+            "worksfor": "indiana.edu"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cook Political Report moves 21 House races toward Dems | TheHill",
+      "htmlTitle": "Cook Political Report moves 21 House races toward Dems | TheHill",
+      "link": "http://feedproxy.google.com/~r/DrudgeReportFeed/~3/u-IUZP8LcWs/372938-cook-political-report-moves-21-house-races-toward-dems",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Feb 8, 2018 ... Dave Wasserman, a Cook analyst, pointed to strong Democratic fundraising in \nthe final quarter of 2017 along with a consistent lead in the ...",
+      "htmlSnippet": "Feb 8, 2018 \u003cb\u003e...\u003c/b\u003e Dave \u003cb\u003eWasserman\u003c/b\u003e, a Cook analyst, pointed to strong Democratic fundraising in \u003cbr\u003e\nthe final quarter of 2017 along with a consistent lead in the&nbsp;...",
+      "cacheId": "QysDufU1bBgJ",
+      "formattedUrl": "feedproxy.google.com/.../372938-cook-political-report-moves-21-house- races-toward-dems",
+      "htmlFormattedUrl": "feedproxy.google.com/.../372938-cook-political-report-moves-21-house- races-toward-dems",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ3Hu6qwgJxy4IGthXGNzdNE-rh4ziyC7Wpam5wqPTyjT0YmcQsbbZj7gM"
+          }
+        ],
+        "metatags": [
+          {
+            "author": "Ben Kamisar",
+            "fb:admins": "581787871",
+            "fb:app_id": "566538590082898",
+            "fb:pages": "7533944086,2064147433830888",
+            "og:site_name": "TheHill",
+            "og:type": "article",
+            "og:title": "Cook Political Report moves 21 House races toward Dems",
+            "og:url": "https://thehill.com/homenews/campaign/372938-cook-political-report-moves-21-house-races-toward-dems",
+            "og:description": "The Cook Political Report, a nonpartisan elections analyst, moved 21 House races in favor of the Democratic Party in its latest rankings released on Thursday",
+            "og:updated_time": "2018-02-08T13:32:18-05:00",
+            "og:image": "https://thehill.com/sites/default/files/pelosi_getty020718.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "Cook Political Report moves 21 House races toward Dems",
+            "twitter:url": "https://thehill.com/homenews/campaign/372938-cook-political-report-moves-21-house-races-toward-dems",
+            "twitter:description": "The Cook Political Report, a nonpartisan elections analyst, moved 21 House races in favor of the Democratic Party in its latest rankings released on Thursday",
+            "article:published_time": "2018-02-08T12:09:31-05:00",
+            "article:modified_time": "2018-02-08T13:32:18-05:00",
+            "dcterms.title": "Cook Political Report moves 21 House races toward Dems",
+            "dcterms.creator": "Will Sommer",
+            "dcterms.description": "The Cook Political Report, a nonpartisan elections analyst, moved 21 House races in favor of the Democratic Party in its latest rankings released on Thursday",
+            "dcterms.date": "2018-02-08T12:09-05:00",
+            "dcterms.type": "Text",
+            "dcterms.format": "text/html",
+            "dcterms.identifier": "https://thehill.com/homenews/campaign/372938-cook-political-report-moves-21-house-races-toward-dems",
+            "twitter:widgets:csp": "on",
+            "apple-itunes-app": "app-id=396640962"
+          }
+        ],
+        "Item": [
+          {
+            "title": "Cook Political Report moves 21 House races toward Dems",
+            "encoded": "The Cook Political Report, a nonpartisan elections analyst, moved 21 House races in favor of the Democratic Party in its latest rankings released on Thursday. The swing includes a mixture of..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thehill.com/sites/default/files/pelosi_getty020718.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scott Norris - Google Scholar Citations",
+      "htmlTitle": "\u003cb\u003eScott\u003c/b\u003e Norris - Google Scholar Citations",
+      "link": "http://scholar.google.com/citations?user=xlmvCMcAAAAJ&hl=en",
+      "displayLink": "scholar.google.com",
+      "snippet": "Scott Norris. Associate Professor of Mathematics. Verified email ... NH \nWasserman, C Quint, SA Norris, T Carr. International Journal of Science and \nMathematics ...",
+      "htmlSnippet": "\u003cb\u003eScott\u003c/b\u003e Norris. Associate Professor of Mathematics. Verified email ... NH \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e, C Quint, SA Norris, T Carr. International Journal of Science and \u003cbr\u003e\nMathematics&nbsp;...",
+      "cacheId": "cWqzvUN5n9IJ",
+      "formattedUrl": "scholar.google.com/citations?user=xlmvCMcAAAAJ&hl=en",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=xlmvCMcAAAAJ&amp;hl=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Molecular dynamics of single-particle impacts predicts phase diagrams for large scale pattern formationSA Norris, J Samela, L Bukonte, M Backman, F Djurabekova, K Nordlund, ...Nature communications..."
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Scott Norris",
+            "title": "Associate Professor of Mathematics"
+          }
+        ],
+        "person": [
+          {
+            "org": "smu.edu",
+            "role": "Associate Professor of Mathematics"
+          },
+          {
+            "name": "Scott Norris",
+            "jobtitle": "Associate Professor of Mathematics",
+            "worksfor": "smu.edu"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Google 學術搜尋引用文獻",
+      "htmlTitle": "Peter J. Carrington - Google 學術搜尋引用文獻",
+      "link": "http://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=zh-TW",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1889, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1889, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "y9dWEOLIhFkJ",
+      "formattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=zh...",
+      "htmlFormattedUrl": "scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl=zh...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200518892005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter J. Carrington - Trích dẫn của Google Scholar",
+      "htmlTitle": "Peter J. Carrington - Trích dẫn của Google Scholar",
+      "link": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl=vi",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman. Cambridge University Press, 2005. 1897, \n2005. The SAGE handbook of social network analysis. J Scott, PJ Carrington.",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e. Cambridge University Press, 2005. 1897, \u003cbr\u003e\n2005. The SAGE handbook of social network analysis. J \u003cb\u003eScott\u003c/b\u003e, PJ Carrington.",
+      "cacheId": "vns49Slh6RIJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&hl...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=w4nN-x0AAAAJ&amp;hl...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Models and methods in social network analysisPJ Carrington, J Scott, S WassermanCambridge University Press, 200518972005"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Peter J. Carrington",
+            "title": "University of Waterloo"
+          }
+        ],
+        "person": [
+          {
+            "org": "uwaterloo.ca",
+            "role": "University of Waterloo"
+          },
+          {
+            "name": "Peter J. Carrington",
+            "jobtitle": "University of Waterloo",
+            "worksfor": "uwaterloo.ca"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Optical cable components",
+      "htmlTitle": "Optical cable components",
+      "link": "http://www.google.com/patents/CA2497238A1?cl=en_2",
+      "displayLink": "www.google.com",
+      "snippet": "Dow Global Technologies LLC; Original Assignee: Dow Global Technologies Inc. \nGeoffrey David Brown: Scott Hanley Wasserman: Marie L. Hare: Alan R.",
+      "htmlSnippet": "Dow Global Technologies LLC; Original Assignee: Dow Global Technologies Inc. \u003cbr\u003e\nGeoffrey David Brown: \u003cb\u003eScott\u003c/b\u003e Hanley \u003cb\u003eWasserman\u003c/b\u003e: Marie L. Hare: Alan R.",
+      "formattedUrl": "www.google.com/patents/CA2497238A1?cl=en_2",
+      "htmlFormattedUrl": "www.google.com/patents/CA2497238A1?cl=en_2",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Optical cable components",
+            "dc.date": "2003-10-07",
+            "citation_patent_application_number": "CA: 2497238",
+            "citation_patent_publication_number": "CA:2497238:A1",
+            "dc.contributor": "Geoffrey David Brown"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Express - Fabrigami: The Origami Art of Folding Cloth to ...",
+      "htmlTitle": "Google Express - Fabrigami: The Origami Art of Folding Cloth to ...",
+      "link": "https://express.google.com/product/Fabrigami-The-Origami-Art-of-Folding-Cloth-to-Create-Decorative-and-Useful-Objects-Book/0_2897085093805907567_0",
+      "displayLink": "express.google.com",
+      "snippet": "Jill Stovall, Scott Wasserman Stern, Florence Temko. Publisher. Tuttle Publishing. \nPages. 80. Format. paperback. Publication Date. 2013.11.12. ISBN.",
+      "htmlSnippet": "Jill Stovall, \u003cb\u003eScott Wasserman\u003c/b\u003e Stern, Florence Temko. Publisher. Tuttle Publishing. \u003cbr\u003e\nPages. 80. Format. paperback. Publication Date. 2013.11.12. ISBN.",
+      "cacheId": "_h0zWuJ-DZoJ",
+      "formattedUrl": "https://express.google.com/.../0_2897085093805907567_0",
+      "htmlFormattedUrl": "https://express.google.com/.../0_2897085093805907567_0",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "apple-itunes-app": "app-id=690229094",
+            "format-detection": "telephone=no",
+            "msvalidate.01": "0E429BD655D97A3A53814ACA9E92FB49"
+          }
+        ],
+        "hproduct": [
+          {
+            "fn": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects [Book]",
+            "photo": "https://lh3.googleusercontent.com/proxy/jXMJq7TbNb9e2PgTz4Qq0-IYwYg2JMTLTFDZKuWPoDa0SkgKxWGQUEL03TXE8srENAD1JC2LIBXJhNAC1EqSQEFb7zIXWntoMu1Pl5aU584H6J5AnJyz5rvAzbTox7xKRZPQrNbftdfCLg1Tn4ubntYlfnxTtTFZXJmWejyeWnHSwKKduXWT062uGqkk1HrvwkSzCRtx4aRtA0-uJLY=s500-pd-e365-pc0xffffff"
+          },
+          {
+            "fn": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects [Book]",
+            "photo": "https://lh3.googleusercontent.com/proxy/jXMJq7TbNb9e2PgTz4Qq0-IYwYg2JMTLTFDZKuWPoDa0SkgKxWGQUEL03TXE8srENAD1JC2LIBXJhNAC1EqSQEFb7zIXWntoMu1Pl5aU584H6J5AnJyz5rvAzbTox7xKRZPQrNbftdfCLg1Tn4ubntYlfnxTtTFZXJmWejyeWnHSwKKduXWT062uGqkk1HrvwkSzCRtx4aRtA0-uJLY=s500-pd-e365-pc0xffffff"
+          },
+          {
+            "fn": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects [Book]",
+            "photo": "https://lh3.googleusercontent.com/proxy/jXMJq7TbNb9e2PgTz4Qq0-IYwYg2JMTLTFDZKuWPoDa0SkgKxWGQUEL03TXE8srENAD1JC2LIBXJhNAC1EqSQEFb7zIXWntoMu1Pl5aU584H6J5AnJyz5rvAzbTox7xKRZPQrNbftdfCLg1Tn4ubntYlfnxTtTFZXJmWejyeWnHSwKKduXWT062uGqkk1HrvwkSzCRtx4aRtA0-uJLY=s500-pd-e365-pc0xffffff"
+          },
+          {
+            "fn": "Fabrigami: The Origami Art of Folding Cloth to Create Decorative and Useful Objects [Book]",
+            "photo": "https://lh3.googleusercontent.com/proxy/jXMJq7TbNb9e2PgTz4Qq0-IYwYg2JMTLTFDZKuWPoDa0SkgKxWGQUEL03TXE8srENAD1JC2LIBXJhNAC1EqSQEFb7zIXWntoMu1Pl5aU584H6J5AnJyz5rvAzbTox7xKRZPQrNbftdfCLg1Tn4ubntYlfnxTtTFZXJmWejyeWnHSwKKduXWT062uGqkk1HrvwkSzCRtx4aRtA0-uJLY=s500-pd-e365-pc0xffffff"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stan Wasserman - Mga Pagsipi ng Google Scholar",
+      "htmlTitle": "Stan \u003cb\u003eWasserman\u003c/b\u003e - Mga Pagsipi ng Google Scholar",
+      "link": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&hl=fil",
+      "displayLink": "scholar.google.com",
+      "snippet": "PJ Carrington, J Scott, S Wasserman ... NS Contractor, S Wasserman, K Faust. \nAcademy ... G Wasserman, JH Graziano, P Factor-Litvak, D Popovac, N Morina, .",
+      "htmlSnippet": "PJ Carrington, J \u003cb\u003eScott\u003c/b\u003e, S \u003cb\u003eWasserman\u003c/b\u003e ... NS Contractor, S \u003cb\u003eWasserman\u003c/b\u003e, K Faust. \u003cbr\u003e\nAcademy ... G \u003cb\u003eWasserman\u003c/b\u003e, JH Graziano, P Factor-Litvak, D Popovac, N Morina, .",
+      "cacheId": "N50fCL_X2DkJ",
+      "formattedUrl": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&hl...",
+      "htmlFormattedUrl": "https://scholar.google.com/citations?user=XvWu8u8AAAAJ&amp;hl...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "always",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "itemlist": [
+          {
+            "itemlistelement": "Social network analysis: Methods and applicationsS Wasserman, K FaustCambridge University Press, 1994321511994"
+          }
+        ],
+        "hcard": [
+          {
+            "fn": "Stan Wasserman",
+            "title": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          }
+        ],
+        "person": [
+          {
+            "org": "indiana.edu",
+            "role": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University"
+          },
+          {
+            "name": "Stan Wasserman",
+            "jobtitle": "Rudy Professor of Psychology, Statistics, and Sociology --- Indiana University",
+            "worksfor": "indiana.edu"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mobile, marketing and eCommerce trends [Philly Tech Week events ...",
+      "htmlTitle": "Mobile, marketing and eCommerce trends [Philly Tech Week events ...",
+      "link": "http://feedproxy.google.com/~r/TechnicallyPhilly/~3/4E8gnmyOw9M/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Apr 22, 2013 ... Blair Lyon, Monetate, VP of Marketing; Tristan Handy, RJMetrics, Director of \nMarketing; Scott Wasserman, Artisan, Founder & CTO; Jim Davis, ...",
+      "htmlSnippet": "Apr 22, 2013 \u003cb\u003e...\u003c/b\u003e Blair Lyon, Monetate, VP of Marketing; Tristan Handy, RJMetrics, Director of \u003cbr\u003e\nMarketing; \u003cb\u003eScott Wasserman\u003c/b\u003e, Artisan, Founder &amp; CTO; Jim Davis,&nbsp;...",
+      "cacheId": "QGvLC9wuW5kJ",
+      "formattedUrl": "feedproxy.google.com/~r/TechnicallyPhilly/~3/4E8gnmyOw9M/",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/TechnicallyPhilly/~3/4E8gnmyOw9M/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "276",
+            "height": "183",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFJ_Jsl2opyQfO4adm1RcOqNzsgPWpjkqGvmIfdP8Fo7Cj2ul1sVkxUgw"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=0.96,width=device-width",
+            "fb:app_id": "1011285523",
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "Mobile, marketing and eCommerce trends [Philly Tech Week events] - Technical.ly Philly",
+            "og:description": "Next Friday, April 26, join Technically Philly at Urban Outfitters Headquarters for a free event focused on innovation in mobile, marketing and eCommerce.",
+            "og:url": "https://technical.ly/philly/2013/04/22/learn-about-the-innovative-companies-leading-phillys-mobile-marketing-and-ecommerce-trends/",
+            "og:site_name": "Technical.ly Philly",
+            "article:tag": "Events Roundup",
+            "article:section": "Dev",
+            "article:published_time": "2013-04-22T14:00:29+00:00",
+            "article:modified_time": "2016-02-07T03:11:40+00:00",
+            "og:updated_time": "2016-02-07T03:11:40+00:00",
+            "og:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/04/photo-for-urbn-designdev.jpg",
+            "og:image:secure_url": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/04/photo-for-urbn-designdev.jpg",
+            "og:image:width": "1000",
+            "og:image:height": "663",
+            "twitter:card": "summary",
+            "twitter:site": "@technicallyPHL",
+            "twitter:domain": "Technical.ly Philly",
+            "twitter:creator": "@brianjameskirk",
+            "twitter:title": "Mobile, marketing and eCommerce trends [Philly Tech Week events]",
+            "twitter:url": "https://technical.ly/philly/2013/04/22/learn-about-the-innovative-companies-leading-phillys-mobile-marketing-and-ecommerce-trends/",
+            "twitter:description": "Next Friday, April 26, join Technically Philly at Urban Outfitters Headquarters for a free event focused on innovation in mobile, marketing and eCommerce.",
+            "twitter:image": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/04/photo-for-urbn-designdev.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://technical.ly/philly/wp-content/uploads/sites/2/2013/04/photo-for-urbn-designdev.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "“Florida to monitor Broward election chief after judge finds 'unlawful ...",
+      "htmlTitle": "“Florida to monitor Broward election chief after judge finds &#39;unlawful ...",
+      "link": "http://feedproxy.google.com/~r/electionlawblog/uqCP/~3/SvNW2t817MI/",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "May 14, 2018 ... Debbie Wasserman Schultz's 2016 Democratic primary, a judge ruled ... run \nelection they deserve,” Scott's office said in a written statement.",
+      "htmlSnippet": "May 14, 2018 \u003cb\u003e...\u003c/b\u003e Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz&#39;s 2016 Democratic primary, a judge ruled ... run \u003cbr\u003e\nelection they deserve,” \u003cb\u003eScott&#39;s\u003c/b\u003e office said in a written statement.",
+      "cacheId": "wQqNuLpFW1UJ",
+      "formattedUrl": "feedproxy.google.com/~r/electionlawblog/uqCP/.../SvNW2t817MI/",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/electionlawblog/uqCP/.../SvNW2t817MI/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US20060246283A1 - Cable insulation compositions with enhanced ...",
+      "htmlTitle": "US20060246283A1 - Cable insulation compositions with enhanced ...",
+      "link": "https://patents.google.com/patent/US20060246283A1/fi",
+      "displayLink": "patents.google.com",
+      "snippet": "Aug 18, 2003 ... Other languages: English; Inventor: Geoffrey Brown: Lisa Madenjian: Scott \nWasserman; Original Assignee: Brown Geoffrey D: Madenjian Lisa S ...",
+      "htmlSnippet": "Aug 18, 2003 \u003cb\u003e...\u003c/b\u003e Other languages: English; Inventor: Geoffrey Brown: Lisa Madenjian: \u003cb\u003eScott\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e; Original Assignee: Brown Geoffrey D: Madenjian Lisa S&nbsp;...",
+      "cacheId": "tmqKJBL4O98J",
+      "formattedUrl": "https://patents.google.com/patent/US20060246283A1/fi",
+      "htmlFormattedUrl": "https://patents.google.com/patent/US20060246283A1/fi",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Cable insulation compositions with enhanced rheology and processability",
+            "dc.date": "2004-08-11",
+            "citation_patent_application_number": "US:10/567,527",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/3a/59/b1/59dd4b06aecb26/US20060246283A1.pdf",
+            "citation_patent_publication_number": "US:20060246283:A1",
+            "dc.contributor": "Geoffrey Brown",
+            "dc.relation": "US:6472473"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Florida election results 2018 - The Washington Post",
+      "htmlTitle": "Florida election results 2018 - The Washington Post",
+      "link": "http://feedproxy.google.com/~r/NiemanLabFuego/~3/PZvXa_EbgYQ/florida",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Rick Scott (R) is using millions of his own dollars in an attempt to oust Sen. ..... In \n2016, Clinton won this district by 26.1 points and Debbie Wasserman Schultz ...",
+      "htmlSnippet": "Rick \u003cb\u003eScott\u003c/b\u003e (R) is using millions of his own dollars in an attempt to oust Sen. ..... In \u003cbr\u003e\n2016, Clinton won this district by 26.1 points and Debbie \u003cb\u003eWasserman\u003c/b\u003e Schultz&nbsp;...",
+      "formattedUrl": "feedproxy.google.com/~r/NiemanLabFuego/~3/PZvXa_EbgYQ/florida",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/NiemanLabFuego/~3/PZvXa_EbgYQ/florida",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "310",
+            "height": "163",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeN6IRrgnTuG-ufHHLPieGZA5hRO_Cu8yDhYZVmRhcqqAiFrLMQTEss8g"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+            "referrer": "unsafe-url",
+            "news_keywords": "Florida general elections 2018, Florida midterms 2018, Florida election results, Florida midterm results, midterms 2018 polls, 2018 election results, Florida midterm 2018 results, Florida midterm election results, Bill Nelson, Rick Scott, Ron DeSantis, Andrew Gillum",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "og:site_name": "Washington Post",
+            "article:publisher": "https://www.facebook.com/washingtonpost",
+            "fb:app_id": "41245586762",
+            "fb:admins": "4403963",
+            "article:content_tier": "free",
+            "twitter:image": "http://www.washingtonpost.com/blogs/test/files/2018/10/election_florida.jpg",
+            "og:url": "https://www.washingtonpost.com/election-results/florida/",
+            "og:image": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/blogs/test/files/2018/10/election_florida.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "og:title": "Florida election results 2018",
+            "og:description": "Voting results from the Florida 2018 midterm election on Nov. 6.",
+            "theme": "normal"
+          }
+        ],
+        "itemlist": [
+          {
+            "url": "https://www.washingtonpost.com/election-results/florida/",
+            "image": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/blogs/test/files/2018/10/election_florida.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "description": "Voting results from the Florida 2018 midterm election on Nov. 6."
+          }
+        ],
+        "listitem": [
+          {
+            "position": "1",
+            "url": "Republican Sen. Cindy Hyde-Smith projected to win racially charged Mississippi runoff, preserving the GOP’s 53-47 Senate majority"
+          },
+          {
+            "position": "2",
+            "url": "Trump slams Fed chair, questions climate change and threatens to cancel Putin meeting in wide-ranging interview with The Post"
+          },
+          {
+            "position": "3",
+            "url": "With McCain’s replacement likely to leave, GOP is split over appointing this year’s loser in Senate race"
+          },
+          {
+            "position": "4",
+            "url": "Corsi provided early alert to Stone about WikiLeaks release, according to draft special counsel document"
+          },
+          {
+            "position": "5",
+            "url": "With ranks growing, Congressional Black Caucus poised to flex its muscle"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/blogs/test/files/2018/10/election_florida.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US20180140611A1 - Combination Therapy of Cardiac Myosin ...",
+      "htmlTitle": "US20180140611A1 - Combination Therapy of Cardiac Myosin ...",
+      "link": "https://patents.google.com/patent/US20180140611A1/ru",
+      "displayLink": "patents.google.com",
+      "snippet": "Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:\nSCOTT, ROBERT ANDREW DONALD;WASSERMAN, SCOTT;REEL/FRAME:\n044420/ ...",
+      "htmlSnippet": "Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:\u003cbr\u003e\n\u003cb\u003eSCOTT\u003c/b\u003e, ROBERT ANDREW DONALD;\u003cb\u003eWASSERMAN\u003c/b\u003e, \u003cb\u003eSCOTT\u003c/b\u003e;REEL/FRAME:\u003cbr\u003e\n044420/&nbsp;...",
+      "cacheId": "PiFNvMTtw_MJ",
+      "formattedUrl": "https://patents.google.com/patent/US20180140611A1/ru",
+      "htmlFormattedUrl": "https://patents.google.com/patent/US20180140611A1/ru",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "96",
+            "height": "120",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhPTLBOZt2QnpFBZH2K2BDW7rJP-7gw22QDirTLWLfWQf5dQV2RQbhOg"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Combination Therapy of Cardiac Myosin Activator and Sinus Node If Current Inhibitor",
+            "dc.date": "2016-06-24",
+            "citation_patent_application_number": "US:15/578,305",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/75/0a/16/4c100cc4e4542d/US20180140611A1.pdf",
+            "citation_patent_publication_number": "US:20180140611:A1",
+            "dc.contributor": "Robert Andrew Donald Scott"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/51/a4/5d/e8267c1b31b48b/US20180140611A1-20180524-D00002.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA ...",
+      "htmlTitle": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA ...",
+      "link": "http://feedproxy.google.com/~r/JBC_PapersInPress/~3/0YN2Fy8nC2k/jbc.M114.583385.short",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "Jul 2, 2014 ... Benjamin J. Burnett,; Roger B. Altman,; Angelica Ferguson,; Michael R. \nWasserman,; Zhou Zhou and; Scott C. Blanchard*. + Author Affiliations.",
+      "htmlSnippet": "Jul 2, 2014 \u003cb\u003e...\u003c/b\u003e Benjamin J. Burnett,; Roger B. Altman,; Angelica Ferguson,; Michael R. \u003cbr\u003e\n\u003cb\u003eWasserman\u003c/b\u003e,; Zhou Zhou and; \u003cb\u003eScott\u003c/b\u003e C. Blanchard*. + Author Affiliations.",
+      "formattedUrl": "feedproxy.google.com/~r/JBC_PapersInPress/~3/.../jbc.M114.583385.short",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/JBC_PapersInPress/~3/.../jbc.M114.583385.short",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4v3YuRU26Fh3GpMOfZMA1cPAdmVOEyeTAUyCTCc56WWrGy2B34HckJpI"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "article",
+            "og:title": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA Quaternary Complex",
+            "og:url": "/content/early/2014/07/02/jbc.M114.583385",
+            "og:site_name": "Journal of Biological Chemistry",
+            "og:image": "http://www.asbmb.org/uploadedImages/Social_Media/art/JBC_twittercard.png",
+            "og:description": "Benjamin J. Burnett, Roger B. Altman, Angelica Ferguson, Michael R. Wasserman, Zhou Zhou, Scott C. Blanchard",
+            "twitter:card": "summary_large_image",
+            "hw.ad-path": "/cgi/content/abstract/M114.583385v1",
+            "hw.identifier": "/jbc/early/2014/07/02/jbc.M114.583385.atom",
+            "dc.format": "text/html",
+            "dc.language": "en",
+            "dc.title": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA Quaternary Complex",
+            "dc.identifier": "10.1074/jbc.M114.583385",
+            "dc.date": "2014-07-02",
+            "dc.publisher": "American Society for Biochemistry and Molecular Biology",
+            "dc.contributor": "Benjamin J. Burnett",
+            "citation_journal_title": "Journal of Biological Chemistry",
+            "citation_journal_abbrev": "J. Biol. Chem.",
+            "citation_issn": "0021-9258",
+            "citation_author": "Benjamin J. Burnett",
+            "citation_author_institution": "Weill Cornell Medical College, United States",
+            "citation_title": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA Quaternary Complex",
+            "citation_firstpage": "jbc.M114.583385",
+            "citation_id": "M114.583385v1",
+            "citation_id_from_sass_path": "//jbc.M114.583385",
+            "citation_mjid": "jbc;M114.583385v1",
+            "citation_doi": "10.1074/jbc.M114.583385",
+            "citation_abstract_html_url": "http://www.jbc.org/content/early/2014/07/02/jbc.M114.583385.abstract",
+            "citation_pdf_url": "http://www.jbc.org/content/early/2014/07/02/jbc.M114.583385.full.pdf",
+            "citation_public_url": "http://www.jbc.org/content/early/2014/07/02/jbc.M114.583385",
+            "citation_pmid": "24990941",
+            "citation_section": "Molecular Biophysics"
+          }
+        ],
+        "person": [
+          {
+            "name": "Benjamin J. Burnett"
+          },
+          {
+            "name": "Roger B. Altman"
+          },
+          {
+            "name": "Angelica Ferguson"
+          },
+          {
+            "name": "Michael R. Wasserman"
+          },
+          {
+            "name": "Zhou Zhou"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.asbmb.org/uploadedImages/Social_Media/art/JBC_twittercard.png"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "articlebody": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA Quaternary Complex Benjamin J. Burnett, Roger B. Altman, Angelica Ferguson, Michael R. Wasserman, Zhou Zhou and Scott C. Blanchard*...",
+            "headline": "Direct Evidence of an Elongation Factor-Tu/Ts-GTP-Aminoacyl-tRNA Quaternary Complex"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WO2002085922A2 - Proteins and nucleic acids encoding same ...",
+      "htmlTitle": "WO2002085922A2 - Proteins and nucleic acids encoding same ...",
+      "link": "https://encrypted.google.com/patents/WO2002085922A2?cl=zh-TW",
+      "displayLink": "encrypted.google.com",
+      "snippet": "... Mehraban: James N. Topper: Uriel M. Malyankar: Scott Wasserman: R. Shlomit \nEdinger: Glennda Smithson: Erik Gunther: Laszlo Komuves; Original Assignee ...",
+      "htmlSnippet": "... Mehraban: James N. Topper: Uriel M. Malyankar: \u003cb\u003eScott Wasserman\u003c/b\u003e: R. Shlomit \u003cbr\u003e\nEdinger: Glennda Smithson: Erik Gunther: Laszlo Komuves; Original Assignee&nbsp;...",
+      "formattedUrl": "https://encrypted.google.com/patents/WO2002085922A2?cl=zh-TW",
+      "htmlFormattedUrl": "https://encrypted.google.com/patents/WO2002085922A2?cl=zh-TW",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "referrer": "origin-when-crossorigin",
+            "dc.type": "patent",
+            "dc.title": "Proteins and nucleic acids encoding same",
+            "dc.date": "2002-04-11",
+            "citation_patent_application_number": "PC:T/US2002/011634",
+            "citation_pdf_url": "https://patentimages.storage.googleapis.com/cd/35/1c/a8a074fead8736/WO2002085922A2.pdf",
+            "citation_patent_publication_number": "WO:2002085922:A2",
+            "dc.contributor": "Carol E. A. Pena",
+            "dc.relation": "WO:2000058473:A2",
+            "citation_reference": "DATABASE PROTEIN [Online] NAGASE ET AL.: 'Prediction of the coding sequences of unidentified human genes', XP002959446 Retrieved from EMBL Database accession no. (BAA86588) & DNA RES vol. 6, no. 5, 11 November 1999, pages 337 - 345"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Unbound Charity Mile at Kansas City's Oldest Race Will Wake ...",
+      "htmlTitle": "Unbound Charity Mile at Kansas City&#39;s Oldest Race Will Wake ...",
+      "link": "http://feedproxy.google.com/~r/marketwire/news/~3/vaQPIVRWbvM/release.do",
+      "displayLink": "feedproxy.google.com",
+      "snippet": "May 25, 2016 ... President and CEO Scott Wasserman and wife Anabella Wasserman cheer on \nrunners by playing drums at the 2015 Hospital Hill Run.",
+      "htmlSnippet": "May 25, 2016 \u003cb\u003e...\u003c/b\u003e President and CEO \u003cb\u003eScott Wasserman\u003c/b\u003e and wife Anabella Wasserman cheer on \u003cbr\u003e\nrunners by playing drums at the 2015 Hospital Hill Run.",
+      "cacheId": "9J1pSPBfuMwJ",
+      "formattedUrl": "feedproxy.google.com/~r/marketwire/news/~3/.../release.do",
+      "htmlFormattedUrl": "feedproxy.google.com/~r/marketwire/news/~3/.../release.do",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "224",
+            "height": "76",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKsY7yEeJZOIluV6CGy2Oo-I7EFbgfBSFxA_DrVNAwe0hphVrcOs1EEA"
+          }
+        ],
+        "metatags": [
+          {
+            "og:site_name": "Marketwire",
+            "og:type": "article",
+            "og:title": "Unbound Charity Mile at Kansas City's Oldest Race Will Wake Neighbors",
+            "og:image": "http://www.marketwire.com/library/MwGo/2016/5/24/11G099863/UnboundLogo-863585ff1f228f8090dc2308a83f9f21.jpg",
+            "og:description": "KANSAS CITY, KS--(Marketwired - May 25, 2016) - If you hear the sound of drums and motivational chants on the morning of June 4, you must be close to Unbound's charity mile. Unbound plans to have the loudest cheering section along the 10K and half marathon route in Kansas City's...",
+            "og:url": "http://www.marketwired.com/press-release/unbound-charity-mile-at-kansas-citys-oldest-race-will-wake-neighbors-2128115.htm"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.marketwire.com/library/MwGo/2016/5/24/11G099863/UnboundLogo-863585ff1f228f8090dc2308a83f9f21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Booster Members - Genoa Area Local Schools",
+      "htmlTitle": "Booster Members - Genoa Area Local Schools",
+      "link": "https://sites.google.com/a/genoaschools.com/genoa-area-local-schools/athletics/athletic-boosters/booster-members",
+      "displayLink": "sites.google.com",
+      "snippet": "The Fredericksen's. Lowell & Diane Hartman. Rick & Lori Buhrow. George & Sue \nStuller. Maxine Dunn. David & Karen Henninger. Scott & Stacey Wasserman.",
+      "htmlSnippet": "The Fredericksen&#39;s. Lowell &amp; Diane Hartman. Rick &amp; Lori Buhrow. George &amp; Sue \u003cbr\u003e\nStuller. Maxine Dunn. David &amp; Karen Henninger. \u003cb\u003eScott\u003c/b\u003e &amp; Stacey \u003cb\u003eWasserman\u003c/b\u003e.",
+      "formattedUrl": "https://sites.google.com/a/genoaschools.com/genoa.../booster-members",
+      "htmlFormattedUrl": "https://sites.google.com/a/genoaschools.com/genoa.../booster-members",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "title": "Booster Members - Genoa Area Local Schools",
+            "og:title": "Booster Members - Genoa Area Local Schools",
+            "og:image": "/_/rsrc/1542726976330/config/customLogo.gif?revision=22"
+          }
+        ],
+        "webpage": [
+          {
+            "name": "Booster Members - Genoa Area Local Schools",
+            "image": "/_/rsrc/1542726976330/config/customLogo.gif?revision=22"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "/_/rsrc/1542726976330/config/customLogo.gif?revision=22"
+          }
+        ]
+      }
+    }
+  ]
+}

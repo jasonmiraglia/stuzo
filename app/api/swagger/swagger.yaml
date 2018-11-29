@@ -1,0 +1,116 @@
+swagger: "2.0"
+
+#################################################
+#              API Information                  #
+#################################################
+info:
+  version: v1
+  title: wasserLinkEnator
+  description: |
+    Return a random Google search result for 'Scott Wasserman'
+
+#################################################
+#   Host, Base Path Schemes, and Content Types  #
+#################################################
+# during dev, should point to your local machine
+host: localhost:5000
+# basePath prefixes all resource paths
+basePath: /
+schemes:
+  - http
+# format of bodies a client can send
+consumes:
+  - application/json
+# format of the responses to the client
+produces:
+  - application/json
+
+#################################################
+#                     Tags                      #
+#################################################
+tags:
+  - name: Search Results
+    description: Operations for handling search results
+  - name: Checks
+    description: Checks for integration tests
+
+
+#################################################
+#                   Security                    #
+#################################################
+
+
+
+#################################################
+#                   Parameters                  #
+#################################################
+
+
+
+#################################################
+#                     Paths                     #
+#################################################
+paths:
+  /check:
+    x-swagger-router-controller: checks
+    get:
+      description: Returns static string to verify that node is up and serving requests. Used for integration testing.
+      operationId: checkLoad
+      tags:
+        - Checks
+      responses:
+        200:
+          description: Success
+          schema:
+            $ref: "#/definitions/Message"
+  /wasserLink:
+    x-swagger-router-controller: wasserLink
+    get:
+      description: Returns a random result from search results.
+      operationId: getRandomResult
+      tags:
+        - Search Results
+      responses:
+        200:
+          description: Success
+          schema:
+            $ref: "#/definitions/LinkResult"
+        500:
+          description: Failure
+          schema:
+            $ref: "#/definitions/Error"
+
+
+
+#################################################
+#                  Definitions                  #
+#################################################
+definitions:
+  Error:
+    required:
+      - message
+    properties:
+      code:
+        type: string
+      message:
+        type: string
+  Message:
+    required:
+      - message
+    properties:
+      message:
+        type: string
+  LinkResult:
+    required:
+      - url
+      - title
+      - snippet
+    properties:
+      url:
+        type: string
+      title:
+        type: string
+      snippet:
+        type: string
+      description:
+        type: string

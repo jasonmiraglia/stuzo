@@ -1,0 +1,6 @@
+{
+  "ignore": ["*/config/*", "*/package.json"],
+  "events": {
+    "start": "jsdoc ../app -r -c ../app/config/jsdoc-config.json -d ../jsdoc && npm test"
+  }
+}

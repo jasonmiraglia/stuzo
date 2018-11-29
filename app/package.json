@@ -1,0 +1,42 @@
+{
+  "name": "wasserLinkEnator",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Fetch Google search results and return a random result",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "chai-things": "^0.2.0",
+    "express": "^4.16.4",
+    "js-yaml": "^3.12.0",
+    "mocha": "^5.2.0",
+    "swagger-express": "^1.0.5",
+    "swagger-express-mw": "^0.7.0",
+    "swagger-ui-express": "^4.0.1"
+  },
+  "nyc": {
+    "description": "Configuration options for Istanbul test coverage reports",
+    "exclude": [
+      "*/test*/*"
+    ],
+    "lines": 85,
+    "reporter": [
+      "text-summary",
+      "text"
+    ],
+    "check-coverage": true
+  },
+  "scripts": {
+    "start": "nodemon server.js --config ../app/config/nodemon.json",
+    "test": "nyc mocha --timeout 2000 -R spec -c api/test/*"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.5",
+    "nodemon": "^1.18.7",
+    "nyc": "^13.1.0"
+  }
+}
